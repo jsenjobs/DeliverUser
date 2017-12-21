@@ -1,0 +1,117 @@
+{
+  "appStatus": {
+    "params": [
+      {
+        "name": "info",
+        "type": "任意",
+        "des": "详细信息",
+        "necessary": false
+      }
+    ],
+    "_links": "/app/status",
+    "method": "GET",
+    "des": "服务器信息"
+  },
+  "listinfo": {
+    "params": [],
+    "_links": "/app/listinfo",
+    "method": "GET",
+    "des": "显示api信息"
+  },
+  "getLog": {
+    "params": [
+      {
+        "name": "filename",
+        "type": "string",
+        "des": "日志文件名字",
+        "necessary": false
+      }
+    ],
+    "_links": "/app/getLog",
+    "method": "GET",
+    "des": "获取日志文件，beta"
+  },
+  "login": {
+    "params": [
+      {
+        "name": "account",
+        "type": "string",
+        "des": "用户注册"
+      },
+      {
+        "name": "password",
+        "type": "string",
+        "des": "用户密码",
+        "necessary": false
+      }
+    ],
+    "_links": "/login/:account/:password",
+    "method": "GET",
+    "des": "用户登入"
+  },
+  "adminUserLogin": {
+    "params": [
+      {
+        "name": "account",
+        "type": "string",
+        "des": "用户id"
+      },
+      {
+        "name": "password",
+        "type": "string",
+        "des": "用户密码"
+      }
+    ],
+    "_links": "/xxv1/1vxx/admin/login/:account/:password",
+    "method": "GET",
+    "des": "管理员登入"
+  },
+  "adminCreateUser": {
+    "params": [
+      {
+        "name": "account",
+        "type": "string",
+        "des": "用户id"
+      },
+      {
+        "name": "password",
+        "type": "string",
+        "des": "用户密码"
+      }
+    ],
+    "_links": "/xxv1/1vxx/admin/user/create/:account/:password",
+    "method": "GET",
+    "des": "创建用户",
+    "headers": [
+      {
+        "name": "token",
+        "type": "string",
+        "des": "用户密码"
+      }
+    ]
+  },
+  "adminResetPassword": {
+    "params": [
+      {
+        "name": "account",
+        "type": "string",
+        "des": "用户id"
+      },
+      {
+        "name": "password",
+        "type": "string",
+        "des": "用户密码"
+      }
+    ],
+    "_links": "/xxv1/1vxx/admin/user/reset/:account/:password",
+    "method": "GET",
+    "des": "重置用户密码",
+    "headers": [
+      {
+        "name": "token",
+        "type": "string",
+        "des": "用户密码"
+      }
+    ]
+  }
+}

@@ -1,0 +1,14 @@
+{
+	"name": "deliveruser",
+	"PORT": 7084,
+	"model":"dev",
+	"desc": " a deliver user module",
+	"Register":"59.110.168.95",
+	"Address":"https://aaa.bigfacewo.com/dwssserveruser",
+	"PVersion":"V1.1.1",
+	"JWT": {
+		"JWT_SECRET" : "ai*))!@wlamrhnsdk$%*@u~ksdu34id^",
+		"ACTIVE": "al92e"
+
+	}
+}

@@ -1,0 +1,1098 @@
+2017-12-21 17:12:07.388 [main] ERROR server - Error: ENOENT: no such file or directory, open '/Users/jsen/Documents/GitProjects/POJ/DeliverWater/Server/DeliverUser/runtime/lock'
+2017-12-21 17:12:07.391 [main] ERROR server - Error: ENOENT: no such file or directory, open '/Users/jsen/Documents/GitProjects/POJ/DeliverWater/Server/DeliverUser/runtime/lock'
+2017-12-21 17:12:07.434 [main] INFO MongoseIniter - MongoDB open:deliverwater
+2017-12-21 17:12:08.158 [main] INFO Task - register succeed at time:Thu Dec 21 2017 17:25:08 GMT+0800 (CST)
+2017-12-21 17:12:08.501 [main] ERROR server - [object Object]
+2017-12-21 17:12:08.502 [main] ERROR server - Error: ENOENT: no such file or directory, open '/Users/jsen/Documents/GitProjects/POJ/DeliverWater/Server/DeliverUser/runtime/lock'
+2017-12-21 17:12:08.509 [main] ERROR server - [object Object]
+2017-12-21 17:12:08.510 [main] ERROR server - Error: ENOENT: no such file or directory, open '/Users/jsen/Documents/GitProjects/POJ/DeliverWater/Server/DeliverUser/runtime/lock'
+2017-12-21 17:12:08.511 [main] ERROR server - [object Object]
+2017-12-21 17:12:08.512 [main] ERROR server - Error: ENOENT: no such file or directory, open '/Users/jsen/Documents/GitProjects/POJ/DeliverWater/Server/DeliverUser/runtime/lock'
+2017-12-21 17:12:08.515 [main] INFO server - 服务器端口：7084
+2017-12-21 17:12:08.517 [main] ERROR server - [object Object]
+2017-12-21 17:12:08.518 [main] ERROR server - Error: ENOENT: no such file or directory, open '/Users/jsen/Documents/GitProjects/POJ/DeliverWater/Server/DeliverUser/runtime/lock'
+2017-12-21 17:12:08.521 [main] INFO server - 服务器端口：7084
+2017-12-21 17:12:08.521 [main] INFO server - 服务器端口：7084
+2017-12-21 17:12:08.533 [main] INFO server - 服务器端口：7084
+2017-12-21 17:12:08.537 [main] ERROR server - [object Object]
+2017-12-21 17:12:08.538 [main] ERROR server - Error: ENOENT: no such file or directory, open '/Users/jsen/Documents/GitProjects/POJ/DeliverWater/Server/DeliverUser/runtime/lock'
+2017-12-21 17:12:08.540 [main] INFO MongoseIniter - MongoDB open:deliverwater
+2017-12-21 17:12:08.543 [main] INFO server - 服务器端口：7084
+2017-12-21 17:12:08.551 [main] INFO MongoseIniter - MongoDB open:deliverwater
+2017-12-21 17:12:08.563 [main] INFO MongoseIniter - MongoDB open:deliverwater
+2017-12-21 17:12:08.564 [main] ERROR server - [object Object]
+2017-12-21 17:12:08.565 [main] ERROR server - Error: ENOENT: no such file or directory, open '/Users/jsen/Documents/GitProjects/POJ/DeliverWater/Server/DeliverUser/runtime/lock'
+2017-12-21 17:12:08.565 [main] INFO MongoseIniter - MongoDB open:deliverwater
+2017-12-21 17:12:08.567 [main] INFO server - 服务器端口：7084
+2017-12-21 17:12:08.567 [main] INFO MongoseIniter - MongoDB open:deliverwater
+2017-12-21 17:12:08.571 [main] ERROR server - [object Object]
+2017-12-21 17:12:08.571 [main] ERROR server - Error: ENOENT: no such file or directory, open '/Users/jsen/Documents/GitProjects/POJ/DeliverWater/Server/DeliverUser/runtime/lock'
+2017-12-21 17:12:08.574 [main] INFO server - 服务器端口：7084
+2017-12-21 17:12:08.583 [main] INFO MongoseIniter - MongoDB open:deliverwater
+2017-12-21 17:12:08.585 [main] ERROR server - [object Object]
+2017-12-21 17:12:08.586 [main] ERROR server - Error: ENOENT: no such file or directory, open '/Users/jsen/Documents/GitProjects/POJ/DeliverWater/Server/DeliverUser/runtime/lock'
+2017-12-21 17:12:08.588 [main] INFO server - 服务器端口：7084
+2017-12-21 17:12:08.589 [main] INFO MongoseIniter - MongoDB open:deliverwater
+2017-12-21 17:12:08.602 [main] INFO MongoseIniter - MongoDB open:deliverwater
+2017-12-21 17:12:09.150 [main] INFO Task - register succeed at time:Thu Dec 21 2017 17:25:09 GMT+0800 (CST)
+2017-12-21 17:12:09.154 [main] INFO Task - register succeed at time:Thu Dec 21 2017 17:25:09 GMT+0800 (CST)
+2017-12-21 17:12:09.156 [main] INFO Task - register succeed at time:Thu Dec 21 2017 17:25:09 GMT+0800 (CST)
+2017-12-21 17:12:09.158 [main] INFO Task - register succeed at time:Thu Dec 21 2017 17:25:09 GMT+0800 (CST)
+2017-12-21 17:12:09.163 [main] INFO Task - register succeed at time:Thu Dec 21 2017 17:25:09 GMT+0800 (CST)
+2017-12-21 17:12:09.164 [main] INFO Task - register succeed at time:Thu Dec 21 2017 17:25:09 GMT+0800 (CST)
+2017-12-21 17:12:09.166 [main] INFO Task - register succeed at time:Thu Dec 21 2017 17:25:09 GMT+0800 (CST)
+2017-12-21 17:12:09.167 [main] INFO Task - register succeed at time:Thu Dec 21 2017 17:25:09 GMT+0800 (CST)
+2017-12-21 17:12:08.149 [main] INFO Task - register succeed at time:Thu Dec 21 2017 17:26:08 GMT+0800 (CST)
+2017-12-21 17:12:10.277 [main] INFO Task - register succeed at time:Thu Dec 21 2017 17:26:10 GMT+0800 (CST)
+2017-12-21 17:12:10.277 [main] INFO Task - register succeed at time:Thu Dec 21 2017 17:26:10 GMT+0800 (CST)
+2017-12-21 17:12:10.277 [main] INFO Task - register succeed at time:Thu Dec 21 2017 17:26:10 GMT+0800 (CST)
+2017-12-21 17:12:10.277 [main] INFO Task - register succeed at time:Thu Dec 21 2017 17:26:10 GMT+0800 (CST)
+2017-12-21 17:12:10.277 [main] INFO Task - register succeed at time:Thu Dec 21 2017 17:26:10 GMT+0800 (CST)
+2017-12-21 17:12:10.277 [main] INFO Task - register succeed at time:Thu Dec 21 2017 17:26:10 GMT+0800 (CST)
+2017-12-21 17:12:10.278 [main] INFO Task - register succeed at time:Thu Dec 21 2017 17:26:10 GMT+0800 (CST)
+2017-12-21 17:12:10.278 [main] INFO Task - register succeed at time:Thu Dec 21 2017 17:26:10 GMT+0800 (CST)
+2017-12-21 17:12:09.141 [main] INFO Task - register succeed at time:Thu Dec 21 2017 17:27:09 GMT+0800 (CST)
+2017-12-21 17:12:11.136 [main] INFO Task - register succeed at time:Thu Dec 21 2017 17:27:11 GMT+0800 (CST)
+2017-12-21 17:12:11.136 [main] INFO Task - register succeed at time:Thu Dec 21 2017 17:27:11 GMT+0800 (CST)
+2017-12-21 17:12:11.138 [main] INFO Task - register succeed at time:Thu Dec 21 2017 17:27:11 GMT+0800 (CST)
+2017-12-21 17:12:11.147 [main] INFO Task - register succeed at time:Thu Dec 21 2017 17:27:11 GMT+0800 (CST)
+2017-12-21 17:12:11.149 [main] INFO Task - register succeed at time:Thu Dec 21 2017 17:27:11 GMT+0800 (CST)
+2017-12-21 17:12:11.149 [main] INFO Task - register succeed at time:Thu Dec 21 2017 17:27:11 GMT+0800 (CST)
+2017-12-21 17:12:11.154 [main] INFO Task - register succeed at time:Thu Dec 21 2017 17:27:11 GMT+0800 (CST)
+2017-12-21 17:12:11.154 [main] INFO Task - register succeed at time:Thu Dec 21 2017 17:27:11 GMT+0800 (CST)
+2017-12-21 17:12:19.607 [main] INFO ControllerServer - createUser Api Call
+2017-12-21 17:12:54.284 [main] ERROR server - Error: ENOENT: no such file or directory, open '/Users/jsen/Documents/GitProjects/POJ/DeliverWater/Server/DeliverUser/runtime/lock'
+2017-12-21 17:12:54.287 [main] ERROR server - Error: ENOENT: no such file or directory, open '/Users/jsen/Documents/GitProjects/POJ/DeliverWater/Server/DeliverUser/runtime/lock'
+2017-12-21 17:12:54.320 [main] INFO MongoseIniter - MongoDB open:deliverwater
+2017-12-21 17:12:55.143 [main] INFO Task - register succeed at time:Thu Dec 21 2017 17:27:55 GMT+0800 (CST)
+2017-12-21 17:12:55.143 [main] ERROR server - [object Object]
+2017-12-21 17:12:55.144 [main] ERROR server - Error: ENOENT: no such file or directory, open '/Users/jsen/Documents/GitProjects/POJ/DeliverWater/Server/DeliverUser/runtime/lock'
+2017-12-21 17:12:55.148 [main] INFO server - 服务器端口：7084
+2017-12-21 17:12:55.151 [main] ERROR server - [object Object]
+2017-12-21 17:12:55.152 [main] ERROR server - Error: ENOENT: no such file or directory, open '/Users/jsen/Documents/GitProjects/POJ/DeliverWater/Server/DeliverUser/runtime/lock'
+2017-12-21 17:12:55.151 [main] ERROR server - [object Object]
+2017-12-21 17:12:55.153 [main] ERROR server - Error: ENOENT: no such file or directory, open '/Users/jsen/Documents/GitProjects/POJ/DeliverWater/Server/DeliverUser/runtime/lock'
+2017-12-21 17:12:55.155 [main] INFO server - 服务器端口：7084
+2017-12-21 17:12:55.155 [main] INFO server - 服务器端口：7084
+2017-12-21 17:12:55.163 [main] ERROR server - [object Object]
+2017-12-21 17:12:55.165 [main] ERROR server - Error: ENOENT: no such file or directory, open '/Users/jsen/Documents/GitProjects/POJ/DeliverWater/Server/DeliverUser/runtime/lock'
+2017-12-21 17:12:55.166 [main] INFO MongoseIniter - MongoDB open:deliverwater
+2017-12-21 17:12:55.167 [main] INFO server - 服务器端口：7084
+2017-12-21 17:12:55.171 [main] INFO MongoseIniter - MongoDB open:deliverwater
+2017-12-21 17:12:55.172 [main] INFO MongoseIniter - MongoDB open:deliverwater
+2017-12-21 17:12:55.174 [main] ERROR server - [object Object]
+2017-12-21 17:12:55.174 [main] ERROR server - Error: ENOENT: no such file or directory, open '/Users/jsen/Documents/GitProjects/POJ/DeliverWater/Server/DeliverUser/runtime/lock'
+2017-12-21 17:12:55.176 [main] INFO server - 服务器端口：7084
+2017-12-21 17:12:55.183 [main] INFO MongoseIniter - MongoDB open:deliverwater
+2017-12-21 17:12:55.189 [main] INFO MongoseIniter - MongoDB open:deliverwater
+2017-12-21 17:12:55.216 [main] ERROR server - [object Object]
+2017-12-21 17:12:55.217 [main] ERROR server - Error: ENOENT: no such file or directory, open '/Users/jsen/Documents/GitProjects/POJ/DeliverWater/Server/DeliverUser/runtime/lock'
+2017-12-21 17:12:55.219 [main] INFO server - 服务器端口：7084
+2017-12-21 17:12:55.232 [main] INFO MongoseIniter - MongoDB open:deliverwater
+2017-12-21 17:12:55.233 [main] ERROR server - [object Object]
+2017-12-21 17:12:55.233 [main] ERROR server - Error: ENOENT: no such file or directory, open '/Users/jsen/Documents/GitProjects/POJ/DeliverWater/Server/DeliverUser/runtime/lock'
+2017-12-21 17:12:55.235 [main] INFO server - 服务器端口：7084
+2017-12-21 17:12:55.239 [main] ERROR server - [object Object]
+2017-12-21 17:12:55.239 [main] ERROR server - Error: ENOENT: no such file or directory, open '/Users/jsen/Documents/GitProjects/POJ/DeliverWater/Server/DeliverUser/runtime/lock'
+2017-12-21 17:12:55.241 [main] INFO server - 服务器端口：7084
+2017-12-21 17:12:55.244 [main] INFO MongoseIniter - MongoDB open:deliverwater
+2017-12-21 17:12:55.251 [main] INFO MongoseIniter - MongoDB open:deliverwater
+2017-12-21 17:12:56.143 [main] INFO Task - register succeed at time:Thu Dec 21 2017 17:27:56 GMT+0800 (CST)
+2017-12-21 17:12:56.145 [main] INFO Task - register succeed at time:Thu Dec 21 2017 17:27:56 GMT+0800 (CST)
+2017-12-21 17:12:56.146 [main] INFO Task - register succeed at time:Thu Dec 21 2017 17:27:56 GMT+0800 (CST)
+2017-12-21 17:12:56.159 [main] INFO Task - register succeed at time:Thu Dec 21 2017 17:27:56 GMT+0800 (CST)
+2017-12-21 17:12:56.163 [main] INFO Task - register succeed at time:Thu Dec 21 2017 17:27:56 GMT+0800 (CST)
+2017-12-21 17:12:56.165 [main] INFO Task - register succeed at time:Thu Dec 21 2017 17:27:56 GMT+0800 (CST)
+2017-12-21 17:12:56.165 [main] INFO Task - register succeed at time:Thu Dec 21 2017 17:27:56 GMT+0800 (CST)
+2017-12-21 17:12:56.167 [main] INFO Task - register succeed at time:Thu Dec 21 2017 17:27:56 GMT+0800 (CST)
+2017-12-21 17:12:02.857 [main] INFO ControllerServer - createUser Api Call
+2017-12-21 17:12:45.201 [main] ERROR server - Error: ENOENT: no such file or directory, open '/Users/jsen/Documents/GitProjects/POJ/DeliverWater/Server/DeliverUser/runtime/lock'
+2017-12-21 17:12:45.204 [main] ERROR server - Error: ENOENT: no such file or directory, open '/Users/jsen/Documents/GitProjects/POJ/DeliverWater/Server/DeliverUser/runtime/lock'
+2017-12-21 17:12:45.252 [main] INFO MongoseIniter - MongoDB open:deliverwater
+2017-12-21 17:12:46.156 [main] INFO Task - register succeed at time:Thu Dec 21 2017 17:28:46 GMT+0800 (CST)
+2017-12-21 17:12:46.246 [main] ERROR server - [object Object]
+2017-12-21 17:12:46.247 [main] ERROR server - Error: ENOENT: no such file or directory, open '/Users/jsen/Documents/GitProjects/POJ/DeliverWater/Server/DeliverUser/runtime/lock'
+2017-12-21 17:12:46.251 [main] INFO server - 服务器端口：7084
+2017-12-21 17:12:46.278 [main] ERROR server - [object Object]
+2017-12-21 17:12:46.278 [main] ERROR server - Error: ENOENT: no such file or directory, open '/Users/jsen/Documents/GitProjects/POJ/DeliverWater/Server/DeliverUser/runtime/lock'
+2017-12-21 17:12:46.280 [main] INFO server - 服务器端口：7084
+2017-12-21 17:12:46.293 [main] ERROR server - [object Object]
+2017-12-21 17:12:46.293 [main] ERROR server - Error: ENOENT: no such file or directory, open '/Users/jsen/Documents/GitProjects/POJ/DeliverWater/Server/DeliverUser/runtime/lock'
+2017-12-21 17:12:46.297 [main] INFO server - 服务器端口：7084
+2017-12-21 17:12:46.300 [main] INFO MongoseIniter - MongoDB open:deliverwater
+2017-12-21 17:12:46.316 [main] ERROR server - [object Object]
+2017-12-21 17:12:46.317 [main] ERROR server - Error: ENOENT: no such file or directory, open '/Users/jsen/Documents/GitProjects/POJ/DeliverWater/Server/DeliverUser/runtime/lock'
+2017-12-21 17:12:46.319 [main] INFO server - 服务器端口：7084
+2017-12-21 17:12:46.324 [main] INFO MongoseIniter - MongoDB open:deliverwater
+2017-12-21 17:12:46.326 [main] INFO MongoseIniter - MongoDB open:deliverwater
+2017-12-21 17:12:46.331 [main] ERROR server - [object Object]
+2017-12-21 17:12:46.332 [main] ERROR server - Error: ENOENT: no such file or directory, open '/Users/jsen/Documents/GitProjects/POJ/DeliverWater/Server/DeliverUser/runtime/lock'
+2017-12-21 17:12:46.334 [main] INFO server - 服务器端口：7084
+2017-12-21 17:12:46.336 [main] INFO MongoseIniter - MongoDB open:deliverwater
+2017-12-21 17:12:46.347 [main] ERROR server - [object Object]
+2017-12-21 17:12:46.347 [main] ERROR server - Error: ENOENT: no such file or directory, open '/Users/jsen/Documents/GitProjects/POJ/DeliverWater/Server/DeliverUser/runtime/lock'
+2017-12-21 17:12:46.347 [main] INFO MongoseIniter - MongoDB open:deliverwater
+2017-12-21 17:12:46.347 [main] ERROR server - [object Object]
+2017-12-21 17:12:46.348 [main] ERROR server - Error: ENOENT: no such file or directory, open '/Users/jsen/Documents/GitProjects/POJ/DeliverWater/Server/DeliverUser/runtime/lock'
+2017-12-21 17:12:46.350 [main] INFO server - 服务器端口：7084
+2017-12-21 17:12:46.350 [main] INFO server - 服务器端口：7084
+2017-12-21 17:12:46.353 [main] ERROR server - [object Object]
+2017-12-21 17:12:46.354 [main] ERROR server - Error: ENOENT: no such file or directory, open '/Users/jsen/Documents/GitProjects/POJ/DeliverWater/Server/DeliverUser/runtime/lock'
+2017-12-21 17:12:46.355 [main] INFO server - 服务器端口：7084
+2017-12-21 17:12:46.361 [main] INFO MongoseIniter - MongoDB open:deliverwater
+2017-12-21 17:12:46.361 [main] INFO MongoseIniter - MongoDB open:deliverwater
+2017-12-21 17:12:46.367 [main] INFO MongoseIniter - MongoDB open:deliverwater
+2017-12-21 17:12:47.141 [main] INFO Task - register succeed at time:Thu Dec 21 2017 17:28:47 GMT+0800 (CST)
+2017-12-21 17:12:47.149 [main] INFO Task - register succeed at time:Thu Dec 21 2017 17:28:47 GMT+0800 (CST)
+2017-12-21 17:12:47.150 [main] INFO Task - register succeed at time:Thu Dec 21 2017 17:28:47 GMT+0800 (CST)
+2017-12-21 17:12:47.168 [main] INFO Task - register succeed at time:Thu Dec 21 2017 17:28:47 GMT+0800 (CST)
+2017-12-21 17:12:47.168 [main] INFO Task - register succeed at time:Thu Dec 21 2017 17:28:47 GMT+0800 (CST)
+2017-12-21 17:12:47.168 [main] INFO Task - register succeed at time:Thu Dec 21 2017 17:28:47 GMT+0800 (CST)
+2017-12-21 17:12:47.171 [main] INFO Task - register succeed at time:Thu Dec 21 2017 17:28:47 GMT+0800 (CST)
+2017-12-21 17:12:47.171 [main] INFO Task - register succeed at time:Thu Dec 21 2017 17:28:47 GMT+0800 (CST)
+2017-12-21 17:12:48.539 [main] INFO ControllerServer - createUser Api Call
+2017-12-21 17:12:42.574 [main] ERROR server - Error: ENOENT: no such file or directory, open '/Users/jsen/Documents/GitProjects/POJ/DeliverWater/Server/DeliverUser/runtime/lock'
+2017-12-21 17:12:42.577 [main] ERROR server - Error: ENOENT: no such file or directory, open '/Users/jsen/Documents/GitProjects/POJ/DeliverWater/Server/DeliverUser/runtime/lock'
+2017-12-21 17:12:42.616 [main] INFO MongoseIniter - MongoDB open:deliverwater
+2017-12-21 17:12:43.190 [main] INFO Task - register succeed at time:Thu Dec 21 2017 17:29:43 GMT+0800 (CST)
+2017-12-21 17:12:43.452 [main] ERROR server - [object Object]
+2017-12-21 17:12:43.453 [main] ERROR server - Error: ENOENT: no such file or directory, open '/Users/jsen/Documents/GitProjects/POJ/DeliverWater/Server/DeliverUser/runtime/lock'
+2017-12-21 17:12:43.455 [main] INFO server - 服务器端口：7084
+2017-12-21 17:12:43.478 [main] INFO MongoseIniter - MongoDB open:deliverwater
+2017-12-21 17:12:43.486 [main] ERROR server - [object Object]
+2017-12-21 17:12:43.486 [main] ERROR server - Error: ENOENT: no such file or directory, open '/Users/jsen/Documents/GitProjects/POJ/DeliverWater/Server/DeliverUser/runtime/lock'
+2017-12-21 17:12:43.486 [main] ERROR server - [object Object]
+2017-12-21 17:12:43.487 [main] ERROR server - Error: ENOENT: no such file or directory, open '/Users/jsen/Documents/GitProjects/POJ/DeliverWater/Server/DeliverUser/runtime/lock'
+2017-12-21 17:12:43.489 [main] INFO server - 服务器端口：7084
+2017-12-21 17:12:43.489 [main] INFO server - 服务器端口：7084
+2017-12-21 17:12:43.498 [main] ERROR server - [object Object]
+2017-12-21 17:12:43.499 [main] ERROR server - Error: ENOENT: no such file or directory, open '/Users/jsen/Documents/GitProjects/POJ/DeliverWater/Server/DeliverUser/runtime/lock'
+2017-12-21 17:12:43.501 [main] INFO server - 服务器端口：7084
+2017-12-21 17:12:43.507 [main] ERROR server - [object Object]
+2017-12-21 17:12:43.508 [main] ERROR server - Error: ENOENT: no such file or directory, open '/Users/jsen/Documents/GitProjects/POJ/DeliverWater/Server/DeliverUser/runtime/lock'
+2017-12-21 17:12:43.509 [main] INFO server - 服务器端口：7084
+2017-12-21 17:12:43.510 [main] INFO MongoseIniter - MongoDB open:deliverwater
+2017-12-21 17:12:43.512 [main] INFO MongoseIniter - MongoDB open:deliverwater
+2017-12-21 17:12:43.515 [main] INFO MongoseIniter - MongoDB open:deliverwater
+2017-12-21 17:12:43.518 [main] ERROR server - [object Object]
+2017-12-21 17:12:43.519 [main] ERROR server - Error: ENOENT: no such file or directory, open '/Users/jsen/Documents/GitProjects/POJ/DeliverWater/Server/DeliverUser/runtime/lock'
+2017-12-21 17:12:43.521 [main] INFO server - 服务器端口：7084
+2017-12-21 17:12:43.523 [main] INFO MongoseIniter - MongoDB open:deliverwater
+2017-12-21 17:12:43.528 [main] ERROR server - [object Object]
+2017-12-21 17:12:43.528 [main] ERROR server - Error: ENOENT: no such file or directory, open '/Users/jsen/Documents/GitProjects/POJ/DeliverWater/Server/DeliverUser/runtime/lock'
+2017-12-21 17:12:43.530 [main] INFO server - 服务器端口：7084
+2017-12-21 17:12:43.533 [main] INFO MongoseIniter - MongoDB open:deliverwater
+2017-12-21 17:12:43.534 [main] ERROR server - [object Object]
+2017-12-21 17:12:43.534 [main] ERROR server - Error: ENOENT: no such file or directory, open '/Users/jsen/Documents/GitProjects/POJ/DeliverWater/Server/DeliverUser/runtime/lock'
+2017-12-21 17:12:43.536 [main] INFO server - 服务器端口：7084
+2017-12-21 17:12:43.543 [main] INFO MongoseIniter - MongoDB open:deliverwater
+2017-12-21 17:12:43.548 [main] INFO MongoseIniter - MongoDB open:deliverwater
+2017-12-21 17:12:44.168 [main] INFO Task - register succeed at time:Thu Dec 21 2017 17:29:44 GMT+0800 (CST)
+2017-12-21 17:12:44.168 [main] INFO Task - register succeed at time:Thu Dec 21 2017 17:29:44 GMT+0800 (CST)
+2017-12-21 17:12:44.170 [main] INFO Task - register succeed at time:Thu Dec 21 2017 17:29:44 GMT+0800 (CST)
+2017-12-21 17:12:44.172 [main] INFO Task - register succeed at time:Thu Dec 21 2017 17:29:44 GMT+0800 (CST)
+2017-12-21 17:12:44.176 [main] INFO Task - register succeed at time:Thu Dec 21 2017 17:29:44 GMT+0800 (CST)
+2017-12-21 17:12:44.193 [main] INFO Task - register succeed at time:Thu Dec 21 2017 17:29:44 GMT+0800 (CST)
+2017-12-21 17:12:44.193 [main] INFO Task - register succeed at time:Thu Dec 21 2017 17:29:44 GMT+0800 (CST)
+2017-12-21 17:12:44.194 [main] INFO Task - register succeed at time:Thu Dec 21 2017 17:29:44 GMT+0800 (CST)
+2017-12-21 17:12:46.934 [main] INFO ControllerServer - createUser Api Call
+2017-12-21 17:12:32.458 [main] INFO ControllerServer - createUser Api Call
+2017-12-21 17:12:43.166 [main] INFO Task - register succeed at time:Thu Dec 21 2017 17:30:43 GMT+0800 (CST)
+2017-12-21 17:12:44.145 [main] INFO Task - register succeed at time:Thu Dec 21 2017 17:30:44 GMT+0800 (CST)
+2017-12-21 17:12:44.165 [main] INFO Task - register succeed at time:Thu Dec 21 2017 17:30:44 GMT+0800 (CST)
+2017-12-21 17:12:44.175 [main] INFO Task - register succeed at time:Thu Dec 21 2017 17:30:44 GMT+0800 (CST)
+2017-12-21 17:12:44.175 [main] INFO Task - register succeed at time:Thu Dec 21 2017 17:30:44 GMT+0800 (CST)
+2017-12-21 17:12:44.175 [main] INFO Task - register succeed at time:Thu Dec 21 2017 17:30:44 GMT+0800 (CST)
+2017-12-21 17:12:45.138 [main] INFO Task - register succeed at time:Thu Dec 21 2017 17:30:45 GMT+0800 (CST)
+2017-12-21 17:12:45.141 [main] INFO Task - register succeed at time:Thu Dec 21 2017 17:30:45 GMT+0800 (CST)
+2017-12-21 17:12:45.163 [main] INFO Task - register succeed at time:Thu Dec 21 2017 17:30:45 GMT+0800 (CST)
+2017-12-21 17:12:49.593 [main] ERROR server - Error: ENOENT: no such file or directory, open '/Users/jsen/Documents/GitProjects/POJ/DeliverWater/Server/DeliverUser/runtime/lock'
+2017-12-21 17:12:49.601 [main] ERROR server - Error: ENOENT: no such file or directory, open '/Users/jsen/Documents/GitProjects/POJ/DeliverWater/Server/DeliverUser/runtime/lock'
+2017-12-21 17:12:49.633 [main] INFO MongoseIniter - MongoDB open:deliverwater
+2017-12-21 17:12:50.157 [main] INFO Task - register succeed at time:Thu Dec 21 2017 17:30:50 GMT+0800 (CST)
+2017-12-21 17:12:50.520 [main] ERROR server - [object Object]
+2017-12-21 17:12:50.521 [main] ERROR server - Error: ENOENT: no such file or directory, open '/Users/jsen/Documents/GitProjects/POJ/DeliverWater/Server/DeliverUser/runtime/lock'
+2017-12-21 17:12:50.523 [main] INFO server - 服务器端口：7084
+2017-12-21 17:12:50.543 [main] ERROR server - [object Object]
+2017-12-21 17:12:50.544 [main] ERROR server - Error: ENOENT: no such file or directory, open '/Users/jsen/Documents/GitProjects/POJ/DeliverWater/Server/DeliverUser/runtime/lock'
+2017-12-21 17:12:50.545 [main] ERROR server - [object Object]
+2017-12-21 17:12:50.546 [main] ERROR server - Error: ENOENT: no such file or directory, open '/Users/jsen/Documents/GitProjects/POJ/DeliverWater/Server/DeliverUser/runtime/lock'
+2017-12-21 17:12:50.546 [main] INFO server - 服务器端口：7084
+2017-12-21 17:12:50.548 [main] INFO server - 服务器端口：7084
+2017-12-21 17:12:50.552 [main] INFO MongoseIniter - MongoDB open:deliverwater
+2017-12-21 17:12:50.553 [main] ERROR server - [object Object]
+2017-12-21 17:12:50.554 [main] ERROR server - Error: ENOENT: no such file or directory, open '/Users/jsen/Documents/GitProjects/POJ/DeliverWater/Server/DeliverUser/runtime/lock'
+2017-12-21 17:12:50.556 [main] INFO server - 服务器端口：7084
+2017-12-21 17:12:50.557 [main] ERROR server - [object Object]
+2017-12-21 17:12:50.558 [main] ERROR server - Error: ENOENT: no such file or directory, open '/Users/jsen/Documents/GitProjects/POJ/DeliverWater/Server/DeliverUser/runtime/lock'
+2017-12-21 17:12:50.560 [main] INFO server - 服务器端口：7084
+2017-12-21 17:12:50.562 [main] ERROR server - [object Object]
+2017-12-21 17:12:50.562 [main] ERROR server - Error: ENOENT: no such file or directory, open '/Users/jsen/Documents/GitProjects/POJ/DeliverWater/Server/DeliverUser/runtime/lock'
+2017-12-21 17:12:50.561 [main] ERROR server - [object Object]
+2017-12-21 17:12:50.562 [main] ERROR server - Error: ENOENT: no such file or directory, open '/Users/jsen/Documents/GitProjects/POJ/DeliverWater/Server/DeliverUser/runtime/lock'
+2017-12-21 17:12:50.565 [main] INFO server - 服务器端口：7084
+2017-12-21 17:12:50.569 [main] INFO server - 服务器端口：7084
+2017-12-21 17:12:50.570 [main] INFO MongoseIniter - MongoDB open:deliverwater
+2017-12-21 17:12:50.575 [main] INFO MongoseIniter - MongoDB open:deliverwater
+2017-12-21 17:12:50.576 [main] INFO MongoseIniter - MongoDB open:deliverwater
+2017-12-21 17:12:50.580 [main] INFO MongoseIniter - MongoDB open:deliverwater
+2017-12-21 17:12:50.580 [main] INFO MongoseIniter - MongoDB open:deliverwater
+2017-12-21 17:12:50.583 [main] INFO MongoseIniter - MongoDB open:deliverwater
+2017-12-21 17:12:50.648 [main] ERROR server - [object Object]
+2017-12-21 17:12:50.649 [main] ERROR server - Error: ENOENT: no such file or directory, open '/Users/jsen/Documents/GitProjects/POJ/DeliverWater/Server/DeliverUser/runtime/lock'
+2017-12-21 17:12:50.651 [main] INFO server - 服务器端口：7084
+2017-12-21 17:12:50.661 [main] INFO MongoseIniter - MongoDB open:deliverwater
+2017-12-21 17:12:51.150 [main] INFO Task - register succeed at time:Thu Dec 21 2017 17:30:51 GMT+0800 (CST)
+2017-12-21 17:12:51.158 [main] INFO Task - register succeed at time:Thu Dec 21 2017 17:30:51 GMT+0800 (CST)
+2017-12-21 17:12:51.158 [main] INFO Task - register succeed at time:Thu Dec 21 2017 17:30:51 GMT+0800 (CST)
+2017-12-21 17:12:51.158 [main] INFO Task - register succeed at time:Thu Dec 21 2017 17:30:51 GMT+0800 (CST)
+2017-12-21 17:12:51.159 [main] INFO Task - register succeed at time:Thu Dec 21 2017 17:30:51 GMT+0800 (CST)
+2017-12-21 17:12:51.162 [main] INFO Task - register succeed at time:Thu Dec 21 2017 17:30:51 GMT+0800 (CST)
+2017-12-21 17:12:51.177 [main] INFO Task - register succeed at time:Thu Dec 21 2017 17:30:51 GMT+0800 (CST)
+2017-12-21 17:12:51.179 [main] INFO Task - register succeed at time:Thu Dec 21 2017 17:30:51 GMT+0800 (CST)
+2017-12-21 17:12:53.425 [main] INFO ControllerServer - createUser Api Call
+2017-12-21 17:12:58.245 [main] INFO ControllerServer - createUser Api Call
+2017-12-21 17:12:48.057 [main] INFO ControllerClient - login Api Call
+2017-12-21 17:12:51.138 [main] INFO Task - register succeed at time:Thu Dec 21 2017 17:31:51 GMT+0800 (CST)
+2017-12-21 17:12:52.138 [main] INFO Task - register succeed at time:Thu Dec 21 2017 17:31:52 GMT+0800 (CST)
+2017-12-21 17:12:52.153 [main] INFO Task - register succeed at time:Thu Dec 21 2017 17:31:52 GMT+0800 (CST)
+2017-12-21 17:12:52.153 [main] INFO Task - register succeed at time:Thu Dec 21 2017 17:31:52 GMT+0800 (CST)
+2017-12-21 17:12:52.156 [main] INFO Task - register succeed at time:Thu Dec 21 2017 17:31:52 GMT+0800 (CST)
+2017-12-21 17:12:52.157 [main] INFO Task - register succeed at time:Thu Dec 21 2017 17:31:52 GMT+0800 (CST)
+2017-12-21 17:12:52.173 [main] INFO Task - register succeed at time:Thu Dec 21 2017 17:31:52 GMT+0800 (CST)
+2017-12-21 17:12:52.177 [main] INFO Task - register succeed at time:Thu Dec 21 2017 17:31:52 GMT+0800 (CST)
+2017-12-21 17:12:52.180 [main] INFO Task - register succeed at time:Thu Dec 21 2017 17:31:52 GMT+0800 (CST)
+2017-12-21 17:12:03.757 [main] INFO ControllerClient - login Api Call
+2017-12-21 17:12:04.362 [main] INFO ControllerClient - login Api Call
+2017-12-21 17:12:34.419 [main] INFO ControllerServer - resetPassword Api Call
+2017-12-21 17:12:38.485 [main] INFO ControllerClient - login Api Call
+2017-12-21 17:12:42.694 [main] INFO ControllerServer - resetPassword Api Call
+2017-12-21 17:12:45.629 [main] INFO ControllerClient - login Api Call
+2017-12-21 17:12:46.970 [main] INFO ControllerClient - login Api Call
+2017-12-21 17:12:47.520 [main] INFO ControllerClient - login Api Call
+2017-12-21 17:12:52.160 [main] INFO Task - register succeed at time:Thu Dec 21 2017 17:32:52 GMT+0800 (CST)
+2017-12-21 17:12:53.145 [main] INFO Task - register succeed at time:Thu Dec 21 2017 17:32:53 GMT+0800 (CST)
+2017-12-21 17:12:53.148 [main] INFO Task - register succeed at time:Thu Dec 21 2017 17:32:53 GMT+0800 (CST)
+2017-12-21 17:12:53.159 [main] INFO Task - register succeed at time:Thu Dec 21 2017 17:32:53 GMT+0800 (CST)
+2017-12-21 17:12:53.203 [main] INFO Task - register succeed at time:Thu Dec 21 2017 17:32:53 GMT+0800 (CST)
+2017-12-21 17:12:53.215 [main] INFO Task - register succeed at time:Thu Dec 21 2017 17:32:53 GMT+0800 (CST)
+2017-12-21 17:12:53.215 [main] INFO Task - register succeed at time:Thu Dec 21 2017 17:32:53 GMT+0800 (CST)
+2017-12-21 17:12:53.215 [main] INFO Task - register succeed at time:Thu Dec 21 2017 17:32:53 GMT+0800 (CST)
+2017-12-21 17:12:53.215 [main] INFO Task - register succeed at time:Thu Dec 21 2017 17:32:53 GMT+0800 (CST)
+2017-12-21 17:12:33.872 [main] ERROR server - Error: ENOENT: no such file or directory, open '/Users/jsen/Documents/GitProjects/POJ/DeliverWater/Server/DeliverUser/runtime/lock'
+2017-12-21 17:12:33.875 [main] ERROR server - Error: ENOENT: no such file or directory, open '/Users/jsen/Documents/GitProjects/POJ/DeliverWater/Server/DeliverUser/runtime/lock'
+2017-12-21 17:12:33.911 [main] INFO MongoseIniter - MongoDB open:deliverwater
+2017-12-21 17:12:34.158 [main] INFO Task - register succeed at time:Thu Dec 21 2017 17:33:34 GMT+0800 (CST)
+2017-12-21 17:12:34.767 [main] ERROR server - [object Object]
+2017-12-21 17:12:34.768 [main] ERROR server - Error: ENOENT: no such file or directory, open '/Users/jsen/Documents/GitProjects/POJ/DeliverWater/Server/DeliverUser/runtime/lock'
+2017-12-21 17:12:34.770 [main] INFO server - 服务器端口：7084
+2017-12-21 17:12:34.814 [main] INFO MongoseIniter - MongoDB open:deliverwater
+2017-12-21 17:12:34.833 [main] ERROR server - [object Object]
+2017-12-21 17:12:34.834 [main] ERROR server - Error: ENOENT: no such file or directory, open '/Users/jsen/Documents/GitProjects/POJ/DeliverWater/Server/DeliverUser/runtime/lock'
+2017-12-21 17:12:34.836 [main] INFO server - 服务器端口：7084
+2017-12-21 17:12:34.843 [main] ERROR server - [object Object]
+2017-12-21 17:12:34.844 [main] ERROR server - Error: ENOENT: no such file or directory, open '/Users/jsen/Documents/GitProjects/POJ/DeliverWater/Server/DeliverUser/runtime/lock'
+2017-12-21 17:12:34.846 [main] INFO server - 服务器端口：7084
+2017-12-21 17:12:34.855 [main] ERROR server - [object Object]
+2017-12-21 17:12:34.856 [main] ERROR server - Error: ENOENT: no such file or directory, open '/Users/jsen/Documents/GitProjects/POJ/DeliverWater/Server/DeliverUser/runtime/lock'
+2017-12-21 17:12:34.857 [main] INFO server - 服务器端口：7084
+2017-12-21 17:12:34.857 [main] ERROR server - [object Object]
+2017-12-21 17:12:34.858 [main] ERROR server - Error: ENOENT: no such file or directory, open '/Users/jsen/Documents/GitProjects/POJ/DeliverWater/Server/DeliverUser/runtime/lock'
+2017-12-21 17:12:34.860 [main] INFO server - 服务器端口：7084
+2017-12-21 17:12:34.861 [main] INFO MongoseIniter - MongoDB open:deliverwater
+2017-12-21 17:12:34.864 [main] INFO MongoseIniter - MongoDB open:deliverwater
+2017-12-21 17:12:34.867 [main] ERROR server - [object Object]
+2017-12-21 17:12:34.868 [main] ERROR server - Error: ENOENT: no such file or directory, open '/Users/jsen/Documents/GitProjects/POJ/DeliverWater/Server/DeliverUser/runtime/lock'
+2017-12-21 17:12:34.870 [main] INFO server - 服务器端口：7084
+2017-12-21 17:12:34.875 [main] INFO MongoseIniter - MongoDB open:deliverwater
+2017-12-21 17:12:34.876 [main] INFO MongoseIniter - MongoDB open:deliverwater
+2017-12-21 17:12:34.882 [main] ERROR server - [object Object]
+2017-12-21 17:12:34.883 [main] ERROR server - Error: ENOENT: no such file or directory, open '/Users/jsen/Documents/GitProjects/POJ/DeliverWater/Server/DeliverUser/runtime/lock'
+2017-12-21 17:12:34.885 [main] INFO MongoseIniter - MongoDB open:deliverwater
+2017-12-21 17:12:34.885 [main] INFO server - 服务器端口：7084
+2017-12-21 17:12:34.896 [main] INFO MongoseIniter - MongoDB open:deliverwater
+2017-12-21 17:12:34.897 [main] ERROR server - [object Object]
+2017-12-21 17:12:34.898 [main] ERROR server - Error: ENOENT: no such file or directory, open '/Users/jsen/Documents/GitProjects/POJ/DeliverWater/Server/DeliverUser/runtime/lock'
+2017-12-21 17:12:34.900 [main] INFO server - 服务器端口：7084
+2017-12-21 17:12:34.910 [main] INFO MongoseIniter - MongoDB open:deliverwater
+2017-12-21 17:12:35.147 [main] INFO Task - register succeed at time:Thu Dec 21 2017 17:33:35 GMT+0800 (CST)
+2017-12-21 17:12:35.153 [main] INFO Task - register succeed at time:Thu Dec 21 2017 17:33:35 GMT+0800 (CST)
+2017-12-21 17:12:35.155 [main] INFO Task - register succeed at time:Thu Dec 21 2017 17:33:35 GMT+0800 (CST)
+2017-12-21 17:12:35.174 [main] INFO Task - register succeed at time:Thu Dec 21 2017 17:33:35 GMT+0800 (CST)
+2017-12-21 17:12:35.174 [main] INFO Task - register succeed at time:Thu Dec 21 2017 17:33:35 GMT+0800 (CST)
+2017-12-21 17:12:35.174 [main] INFO Task - register succeed at time:Thu Dec 21 2017 17:33:35 GMT+0800 (CST)
+2017-12-21 17:12:35.175 [main] INFO Task - register succeed at time:Thu Dec 21 2017 17:33:35 GMT+0800 (CST)
+2017-12-21 17:12:35.176 [main] INFO Task - register succeed at time:Thu Dec 21 2017 17:33:35 GMT+0800 (CST)
+2017-12-21 17:12:49.131 [main] INFO ControllerServer - resetPassword Api Call
+2017-12-21 17:12:06.077 [main] INFO ControllerServer - resetPassword Api Call
+2017-12-21 17:12:20.021 [main] INFO ControllerClient - login Api Call
+2017-12-21 17:12:35.138 [main] INFO Task - register succeed at time:Thu Dec 21 2017 17:34:35 GMT+0800 (CST)
+2017-12-21 17:12:36.135 [main] INFO Task - register succeed at time:Thu Dec 21 2017 17:34:36 GMT+0800 (CST)
+2017-12-21 17:12:36.135 [main] INFO Task - register succeed at time:Thu Dec 21 2017 17:34:36 GMT+0800 (CST)
+2017-12-21 17:12:36.145 [main] INFO Task - register succeed at time:Thu Dec 21 2017 17:34:36 GMT+0800 (CST)
+2017-12-21 17:12:36.146 [main] INFO Task - register succeed at time:Thu Dec 21 2017 17:34:36 GMT+0800 (CST)
+2017-12-21 17:12:36.149 [main] INFO Task - register succeed at time:Thu Dec 21 2017 17:34:36 GMT+0800 (CST)
+2017-12-21 17:12:36.150 [main] INFO Task - register succeed at time:Thu Dec 21 2017 17:34:36 GMT+0800 (CST)
+2017-12-21 17:12:36.152 [main] INFO Task - register succeed at time:Thu Dec 21 2017 17:34:36 GMT+0800 (CST)
+2017-12-21 17:12:36.153 [main] INFO Task - register succeed at time:Thu Dec 21 2017 17:34:36 GMT+0800 (CST)
+2017-12-21 17:12:18.917 [main] ERROR server - Error: ENOENT: no such file or directory, open '/Users/jsen/Documents/GitProjects/POJ/DeliverWater/Server/DeliverUser/runtime/lock'
+2017-12-21 17:12:18.920 [main] ERROR server - Error: ENOENT: no such file or directory, open '/Users/jsen/Documents/GitProjects/POJ/DeliverWater/Server/DeliverUser/runtime/lock'
+2017-12-21 17:12:18.958 [main] INFO MongoseIniter - MongoDB open:deliverwater
+2017-12-21 17:12:19.150 [main] INFO Task - register succeed at time:Thu Dec 21 2017 17:38:19 GMT+0800 (CST)
+2017-12-21 17:12:19.820 [main] ERROR server - [object Object]
+2017-12-21 17:12:19.821 [main] ERROR server - Error: ENOENT: no such file or directory, open '/Users/jsen/Documents/GitProjects/POJ/DeliverWater/Server/DeliverUser/runtime/lock'
+2017-12-21 17:12:19.824 [main] INFO server - 服务器端口：7084
+2017-12-21 17:12:19.840 [main] INFO MongoseIniter - MongoDB open:deliverwater
+2017-12-21 17:12:19.853 [main] ERROR server - [object Object]
+2017-12-21 17:12:19.854 [main] ERROR server - Error: ENOENT: no such file or directory, open '/Users/jsen/Documents/GitProjects/POJ/DeliverWater/Server/DeliverUser/runtime/lock'
+2017-12-21 17:12:19.855 [main] INFO server - 服务器端口：7084
+2017-12-21 17:12:19.859 [main] ERROR server - [object Object]
+2017-12-21 17:12:19.860 [main] ERROR server - Error: ENOENT: no such file or directory, open '/Users/jsen/Documents/GitProjects/POJ/DeliverWater/Server/DeliverUser/runtime/lock'
+2017-12-21 17:12:19.862 [main] INFO server - 服务器端口：7084
+2017-12-21 17:12:19.875 [main] INFO MongoseIniter - MongoDB open:deliverwater
+2017-12-21 17:12:19.882 [main] ERROR server - [object Object]
+2017-12-21 17:12:19.883 [main] ERROR server - Error: ENOENT: no such file or directory, open '/Users/jsen/Documents/GitProjects/POJ/DeliverWater/Server/DeliverUser/runtime/lock'
+2017-12-21 17:12:19.884 [main] INFO server - 服务器端口：7084
+2017-12-21 17:12:19.886 [main] INFO MongoseIniter - MongoDB open:deliverwater
+2017-12-21 17:12:19.898 [main] ERROR server - [object Object]
+2017-12-21 17:12:19.898 [main] ERROR server - Error: ENOENT: no such file or directory, open '/Users/jsen/Documents/GitProjects/POJ/DeliverWater/Server/DeliverUser/runtime/lock'
+2017-12-21 17:12:19.899 [main] INFO MongoseIniter - MongoDB open:deliverwater
+2017-12-21 17:12:19.900 [main] INFO server - 服务器端口：7084
+2017-12-21 17:12:19.914 [main] ERROR server - [object Object]
+2017-12-21 17:12:19.916 [main] ERROR server - Error: ENOENT: no such file or directory, open '/Users/jsen/Documents/GitProjects/POJ/DeliverWater/Server/DeliverUser/runtime/lock'
+2017-12-21 17:12:19.918 [main] INFO server - 服务器端口：7084
+2017-12-21 17:12:19.922 [main] INFO MongoseIniter - MongoDB open:deliverwater
+2017-12-21 17:12:19.933 [main] INFO MongoseIniter - MongoDB open:deliverwater
+2017-12-21 17:12:19.945 [main] ERROR server - [object Object]
+2017-12-21 17:12:19.946 [main] ERROR server - Error: ENOENT: no such file or directory, open '/Users/jsen/Documents/GitProjects/POJ/DeliverWater/Server/DeliverUser/runtime/lock'
+2017-12-21 17:12:19.947 [main] INFO server - 服务器端口：7084
+2017-12-21 17:12:19.948 [main] ERROR server - [object Object]
+2017-12-21 17:12:19.949 [main] ERROR server - Error: ENOENT: no such file or directory, open '/Users/jsen/Documents/GitProjects/POJ/DeliverWater/Server/DeliverUser/runtime/lock'
+2017-12-21 17:12:19.950 [main] INFO server - 服务器端口：7084
+2017-12-21 17:12:19.960 [main] INFO MongoseIniter - MongoDB open:deliverwater
+2017-12-21 17:12:19.962 [main] INFO MongoseIniter - MongoDB open:deliverwater
+2017-12-21 17:12:20.150 [main] INFO Task - register succeed at time:Thu Dec 21 2017 17:38:20 GMT+0800 (CST)
+2017-12-21 17:12:20.151 [main] INFO Task - register succeed at time:Thu Dec 21 2017 17:38:20 GMT+0800 (CST)
+2017-12-21 17:12:20.155 [main] INFO Task - register succeed at time:Thu Dec 21 2017 17:38:20 GMT+0800 (CST)
+2017-12-21 17:12:20.157 [main] INFO Task - register succeed at time:Thu Dec 21 2017 17:38:20 GMT+0800 (CST)
+2017-12-21 17:12:20.161 [main] INFO Task - register succeed at time:Thu Dec 21 2017 17:38:20 GMT+0800 (CST)
+2017-12-21 17:12:20.161 [main] INFO Task - register succeed at time:Thu Dec 21 2017 17:38:20 GMT+0800 (CST)
+2017-12-21 17:12:20.163 [main] INFO Task - register succeed at time:Thu Dec 21 2017 17:38:20 GMT+0800 (CST)
+2017-12-21 17:12:20.170 [main] INFO Task - register succeed at time:Thu Dec 21 2017 17:38:20 GMT+0800 (CST)
+2017-12-21 17:12:23.749 [main] INFO ControllerServer - resetPassword Api Call
+2017-12-21 17:12:27.661 [main] INFO ControllerClient - login Api Call
+2017-12-21 17:12:30.814 [main] INFO ControllerClient - login Api Call
+2017-12-21 17:12:34.762 [main] INFO ControllerClient - login Api Call
+2017-12-21 17:12:20.150 [main] INFO Task - register succeed at time:Thu Dec 21 2017 17:39:20 GMT+0800 (CST)
+2017-12-21 17:12:21.136 [main] INFO Task - register succeed at time:Thu Dec 21 2017 17:39:21 GMT+0800 (CST)
+2017-12-21 17:12:21.140 [main] INFO Task - register succeed at time:Thu Dec 21 2017 17:39:21 GMT+0800 (CST)
+2017-12-21 17:12:21.142 [main] INFO Task - register succeed at time:Thu Dec 21 2017 17:39:21 GMT+0800 (CST)
+2017-12-21 17:12:21.147 [main] INFO Task - register succeed at time:Thu Dec 21 2017 17:39:21 GMT+0800 (CST)
+2017-12-21 17:12:21.148 [main] INFO Task - register succeed at time:Thu Dec 21 2017 17:39:21 GMT+0800 (CST)
+2017-12-21 17:12:21.149 [main] INFO Task - register succeed at time:Thu Dec 21 2017 17:39:21 GMT+0800 (CST)
+2017-12-21 17:12:21.154 [main] INFO Task - register succeed at time:Thu Dec 21 2017 17:39:21 GMT+0800 (CST)
+2017-12-21 17:12:21.154 [main] INFO Task - register succeed at time:Thu Dec 21 2017 17:39:21 GMT+0800 (CST)
+2017-12-21 17:12:21.137 [main] INFO Task - register succeed at time:Thu Dec 21 2017 17:40:21 GMT+0800 (CST)
+2017-12-21 17:12:21.140 [main] INFO Task - register succeed at time:Thu Dec 21 2017 17:40:21 GMT+0800 (CST)
+2017-12-21 17:12:21.147 [main] INFO Task - register succeed at time:Thu Dec 21 2017 17:40:21 GMT+0800 (CST)
+2017-12-21 17:12:21.148 [main] INFO Task - register succeed at time:Thu Dec 21 2017 17:40:21 GMT+0800 (CST)
+2017-12-21 17:12:22.134 [main] INFO Task - register succeed at time:Thu Dec 21 2017 17:40:22 GMT+0800 (CST)
+2017-12-21 17:12:22.146 [main] INFO Task - register succeed at time:Thu Dec 21 2017 17:40:22 GMT+0800 (CST)
+2017-12-21 17:12:22.147 [main] INFO Task - register succeed at time:Thu Dec 21 2017 17:40:22 GMT+0800 (CST)
+2017-12-21 17:12:22.149 [main] INFO Task - register succeed at time:Thu Dec 21 2017 17:40:22 GMT+0800 (CST)
+2017-12-21 17:12:22.161 [main] INFO Task - register succeed at time:Thu Dec 21 2017 17:40:22 GMT+0800 (CST)
+2017-12-21 17:12:22.133 [main] INFO Task - register succeed at time:Thu Dec 21 2017 17:41:22 GMT+0800 (CST)
+2017-12-21 17:12:22.135 [main] INFO Task - register succeed at time:Thu Dec 21 2017 17:41:22 GMT+0800 (CST)
+2017-12-21 17:12:22.136 [main] INFO Task - register succeed at time:Thu Dec 21 2017 17:41:22 GMT+0800 (CST)
+2017-12-21 17:12:22.146 [main] INFO Task - register succeed at time:Thu Dec 21 2017 17:41:22 GMT+0800 (CST)
+2017-12-21 17:12:22.146 [main] INFO Task - register succeed at time:Thu Dec 21 2017 17:41:22 GMT+0800 (CST)
+2017-12-21 17:12:22.149 [main] INFO Task - register succeed at time:Thu Dec 21 2017 17:41:22 GMT+0800 (CST)
+2017-12-21 17:12:22.150 [main] INFO Task - register succeed at time:Thu Dec 21 2017 17:41:22 GMT+0800 (CST)
+2017-12-21 17:12:23.133 [main] INFO Task - register succeed at time:Thu Dec 21 2017 17:41:23 GMT+0800 (CST)
+2017-12-21 17:12:23.142 [main] INFO Task - register succeed at time:Thu Dec 21 2017 17:41:23 GMT+0800 (CST)
+2017-12-21 17:12:00.311 [main] ERROR server - Error: ENOENT: no such file or directory, open '/Users/jsen/Documents/GitProjects/POJ/DeliverWater/Server/DeliverUser/runtime/lock'
+2017-12-21 17:12:00.314 [main] ERROR server - Error: ENOENT: no such file or directory, open '/Users/jsen/Documents/GitProjects/POJ/DeliverWater/Server/DeliverUser/runtime/lock'
+2017-12-21 17:12:00.338 [main] INFO MongoseIniter - MongoDB open:deliverwater
+2017-12-21 17:12:01.147 [main] INFO Task - register succeed at time:Thu Dec 21 2017 17:48:01 GMT+0800 (CST)
+2017-12-21 17:12:01.357 [main] ERROR server - [object Object]
+2017-12-21 17:12:01.358 [main] ERROR server - Error: ENOENT: no such file or directory, open '/Users/jsen/Documents/GitProjects/POJ/DeliverWater/Server/DeliverUser/runtime/lock'
+2017-12-21 17:12:01.361 [main] INFO server - 服务器端口：7084
+2017-12-21 17:12:01.361 [main] ERROR server - [object Object]
+2017-12-21 17:12:01.362 [main] ERROR server - Error: ENOENT: no such file or directory, open '/Users/jsen/Documents/GitProjects/POJ/DeliverWater/Server/DeliverUser/runtime/lock'
+2017-12-21 17:12:01.364 [main] INFO server - 服务器端口：7084
+2017-12-21 17:12:01.374 [main] ERROR server - [object Object]
+2017-12-21 17:12:01.375 [main] ERROR server - Error: ENOENT: no such file or directory, open '/Users/jsen/Documents/GitProjects/POJ/DeliverWater/Server/DeliverUser/runtime/lock'
+2017-12-21 17:12:01.377 [main] INFO server - 服务器端口：7084
+2017-12-21 17:12:01.376 [main] ERROR server - [object Object]
+2017-12-21 17:12:01.377 [main] ERROR server - Error: ENOENT: no such file or directory, open '/Users/jsen/Documents/GitProjects/POJ/DeliverWater/Server/DeliverUser/runtime/lock'
+2017-12-21 17:12:01.377 [main] ERROR server - [object Object]
+2017-12-21 17:12:01.378 [main] ERROR server - Error: ENOENT: no such file or directory, open '/Users/jsen/Documents/GitProjects/POJ/DeliverWater/Server/DeliverUser/runtime/lock'
+2017-12-21 17:12:01.379 [main] INFO server - 服务器端口：7084
+2017-12-21 17:12:01.380 [main] ERROR server - [object Object]
+2017-12-21 17:12:01.381 [main] ERROR server - Error: ENOENT: no such file or directory, open '/Users/jsen/Documents/GitProjects/POJ/DeliverWater/Server/DeliverUser/runtime/lock'
+2017-12-21 17:12:01.381 [main] INFO server - 服务器端口：7084
+2017-12-21 17:12:01.383 [main] INFO MongoseIniter - MongoDB open:deliverwater
+2017-12-21 17:12:01.384 [main] INFO server - 服务器端口：7084
+2017-12-21 17:12:01.384 [main] ERROR server - [object Object]
+2017-12-21 17:12:01.385 [main] ERROR server - Error: ENOENT: no such file or directory, open '/Users/jsen/Documents/GitProjects/POJ/DeliverWater/Server/DeliverUser/runtime/lock'
+2017-12-21 17:12:01.387 [main] INFO server - 服务器端口：7084
+2017-12-21 17:12:01.395 [main] INFO MongoseIniter - MongoDB open:deliverwater
+2017-12-21 17:12:01.399 [main] INFO MongoseIniter - MongoDB open:deliverwater
+2017-12-21 17:12:01.399 [main] INFO MongoseIniter - MongoDB open:deliverwater
+2017-12-21 17:12:01.400 [main] ERROR server - [object Object]
+2017-12-21 17:12:01.400 [main] ERROR server - Error: ENOENT: no such file or directory, open '/Users/jsen/Documents/GitProjects/POJ/DeliverWater/Server/DeliverUser/runtime/lock'
+2017-12-21 17:12:01.402 [main] INFO server - 服务器端口：7084
+2017-12-21 17:12:01.402 [main] INFO MongoseIniter - MongoDB open:deliverwater
+2017-12-21 17:12:01.407 [main] INFO MongoseIniter - MongoDB open:deliverwater
+2017-12-21 17:12:01.407 [main] INFO MongoseIniter - MongoDB open:deliverwater
+2017-12-21 17:12:01.414 [main] INFO MongoseIniter - MongoDB open:deliverwater
+2017-12-21 17:12:02.163 [main] INFO Task - register succeed at time:Thu Dec 21 2017 17:48:02 GMT+0800 (CST)
+2017-12-21 17:12:02.164 [main] INFO Task - register succeed at time:Thu Dec 21 2017 17:48:02 GMT+0800 (CST)
+2017-12-21 17:12:02.165 [main] INFO Task - register succeed at time:Thu Dec 21 2017 17:48:02 GMT+0800 (CST)
+2017-12-21 17:12:02.171 [main] INFO Task - register succeed at time:Thu Dec 21 2017 17:48:02 GMT+0800 (CST)
+2017-12-21 17:12:02.171 [main] INFO Task - register succeed at time:Thu Dec 21 2017 17:48:02 GMT+0800 (CST)
+2017-12-21 17:12:02.171 [main] INFO Task - register succeed at time:Thu Dec 21 2017 17:48:02 GMT+0800 (CST)
+2017-12-21 17:12:02.177 [main] INFO Task - register succeed at time:Thu Dec 21 2017 17:48:02 GMT+0800 (CST)
+2017-12-21 17:12:02.179 [main] INFO Task - register succeed at time:Thu Dec 21 2017 17:48:02 GMT+0800 (CST)
+2017-12-21 17:12:20.477 [main] INFO ControllerClient - login Api Call
+2017-12-21 18:12:47.264 [main] ERROR server - Error: ENOENT: no such file or directory, open '/Users/jsen/Documents/GitProjects/POJ/DeliverWater/Server/DeliverUser/runtime/lock'
+2017-12-21 18:12:47.267 [main] ERROR server - Error: ENOENT: no such file or directory, open '/Users/jsen/Documents/GitProjects/POJ/DeliverWater/Server/DeliverUser/runtime/lock'
+2017-12-21 18:12:47.290 [main] INFO MongoseIniter - MongoDB open:deliverwater
+2017-12-21 18:12:48.149 [main] INFO Task - register succeed at time:Thu Dec 21 2017 18:20:48 GMT+0800 (CST)
+2017-12-21 18:12:48.575 [main] ERROR server - [object Object]
+2017-12-21 18:12:48.576 [main] ERROR server - Error: ENOENT: no such file or directory, open '/Users/jsen/Documents/GitProjects/POJ/DeliverWater/Server/DeliverUser/runtime/lock'
+2017-12-21 18:12:48.578 [main] INFO server - 服务器端口：7084
+2017-12-21 18:12:48.578 [main] ERROR server - [object Object]
+2017-12-21 18:12:48.579 [main] ERROR server - Error: ENOENT: no such file or directory, open '/Users/jsen/Documents/GitProjects/POJ/DeliverWater/Server/DeliverUser/runtime/lock'
+2017-12-21 18:12:48.582 [main] INFO server - 服务器端口：7084
+2017-12-21 18:12:48.581 [main] ERROR server - [object Object]
+2017-12-21 18:12:48.582 [main] ERROR server - Error: ENOENT: no such file or directory, open '/Users/jsen/Documents/GitProjects/POJ/DeliverWater/Server/DeliverUser/runtime/lock'
+2017-12-21 18:12:48.584 [main] INFO server - 服务器端口：7084
+2017-12-21 18:12:48.592 [main] ERROR server - [object Object]
+2017-12-21 18:12:48.593 [main] ERROR server - Error: ENOENT: no such file or directory, open '/Users/jsen/Documents/GitProjects/POJ/DeliverWater/Server/DeliverUser/runtime/lock'
+2017-12-21 18:12:48.595 [main] INFO server - 服务器端口：7084
+2017-12-21 18:12:48.598 [main] ERROR server - [object Object]
+2017-12-21 18:12:48.599 [main] ERROR server - Error: ENOENT: no such file or directory, open '/Users/jsen/Documents/GitProjects/POJ/DeliverWater/Server/DeliverUser/runtime/lock'
+2017-12-21 18:12:48.601 [main] INFO MongoseIniter - MongoDB open:deliverwater
+2017-12-21 18:12:48.601 [main] INFO server - 服务器端口：7084
+2017-12-21 18:12:48.614 [main] INFO MongoseIniter - MongoDB open:deliverwater
+2017-12-21 18:12:48.614 [main] INFO MongoseIniter - MongoDB open:deliverwater
+2017-12-21 18:12:48.618 [main] INFO MongoseIniter - MongoDB open:deliverwater
+2017-12-21 18:12:48.618 [main] INFO MongoseIniter - MongoDB open:deliverwater
+2017-12-21 18:12:48.621 [main] ERROR server - [object Object]
+2017-12-21 18:12:48.622 [main] ERROR server - Error: ENOENT: no such file or directory, open '/Users/jsen/Documents/GitProjects/POJ/DeliverWater/Server/DeliverUser/runtime/lock'
+2017-12-21 18:12:48.623 [main] ERROR server - [object Object]
+2017-12-21 18:12:48.624 [main] ERROR server - Error: ENOENT: no such file or directory, open '/Users/jsen/Documents/GitProjects/POJ/DeliverWater/Server/DeliverUser/runtime/lock'
+2017-12-21 18:12:48.624 [main] INFO server - 服务器端口：7084
+2017-12-21 18:12:48.626 [main] INFO server - 服务器端口：7084
+2017-12-21 18:12:48.633 [main] ERROR server - [object Object]
+2017-12-21 18:12:48.634 [main] ERROR server - Error: ENOENT: no such file or directory, open '/Users/jsen/Documents/GitProjects/POJ/DeliverWater/Server/DeliverUser/runtime/lock'
+2017-12-21 18:12:48.635 [main] INFO server - 服务器端口：7084
+2017-12-21 18:12:48.636 [main] INFO MongoseIniter - MongoDB open:deliverwater
+2017-12-21 18:12:48.639 [main] INFO MongoseIniter - MongoDB open:deliverwater
+2017-12-21 18:12:48.648 [main] INFO MongoseIniter - MongoDB open:deliverwater
+2017-12-21 18:12:49.148 [main] INFO Task - register succeed at time:Thu Dec 21 2017 18:20:49 GMT+0800 (CST)
+2017-12-21 18:12:49.151 [main] INFO Task - register succeed at time:Thu Dec 21 2017 18:20:49 GMT+0800 (CST)
+2017-12-21 18:12:49.151 [main] INFO Task - register succeed at time:Thu Dec 21 2017 18:20:49 GMT+0800 (CST)
+2017-12-21 18:12:49.157 [main] INFO Task - register succeed at time:Thu Dec 21 2017 18:20:49 GMT+0800 (CST)
+2017-12-21 18:12:49.165 [main] INFO Task - register succeed at time:Thu Dec 21 2017 18:20:49 GMT+0800 (CST)
+2017-12-21 18:12:49.165 [main] INFO Task - register succeed at time:Thu Dec 21 2017 18:20:49 GMT+0800 (CST)
+2017-12-21 18:12:49.165 [main] INFO Task - register succeed at time:Thu Dec 21 2017 18:20:49 GMT+0800 (CST)
+2017-12-21 18:12:49.172 [main] INFO Task - register succeed at time:Thu Dec 21 2017 18:20:49 GMT+0800 (CST)
+2017-12-21 18:12:38.666 [main] ERROR server - Error: ENOENT: no such file or directory, open '/Users/jsen/Documents/GitProjects/POJ/DeliverWater/Server/DeliverUser/runtime/lock'
+2017-12-21 18:12:38.669 [main] ERROR server - Error: ENOENT: no such file or directory, open '/Users/jsen/Documents/GitProjects/POJ/DeliverWater/Server/DeliverUser/runtime/lock'
+2017-12-21 18:12:38.693 [main] INFO MongoseIniter - MongoDB open:deliverwater
+2017-12-21 18:12:39.413 [main] INFO Task - register succeed at time:Thu Dec 21 2017 18:23:39 GMT+0800 (CST)
+2017-12-21 18:12:39.824 [main] ERROR server - [object Object]
+2017-12-21 18:12:39.825 [main] ERROR server - Error: ENOENT: no such file or directory, open '/Users/jsen/Documents/GitProjects/POJ/DeliverWater/Server/DeliverUser/runtime/lock'
+2017-12-21 18:12:39.827 [main] INFO server - 服务器端口：7084
+2017-12-21 18:12:39.849 [main] ERROR server - [object Object]
+2017-12-21 18:12:39.850 [main] ERROR server - Error: ENOENT: no such file or directory, open '/Users/jsen/Documents/GitProjects/POJ/DeliverWater/Server/DeliverUser/runtime/lock'
+2017-12-21 18:12:39.851 [main] ERROR server - [object Object]
+2017-12-21 18:12:39.852 [main] ERROR server - Error: ENOENT: no such file or directory, open '/Users/jsen/Documents/GitProjects/POJ/DeliverWater/Server/DeliverUser/runtime/lock'
+2017-12-21 18:12:39.852 [main] INFO server - 服务器端口：7084
+2017-12-21 18:12:39.859 [main] ERROR server - [object Object]
+2017-12-21 18:12:39.861 [main] ERROR server - Error: ENOENT: no such file or directory, open '/Users/jsen/Documents/GitProjects/POJ/DeliverWater/Server/DeliverUser/runtime/lock'
+2017-12-21 18:12:39.862 [main] INFO server - 服务器端口：7084
+2017-12-21 18:12:39.863 [main] INFO server - 服务器端口：7084
+2017-12-21 18:12:39.869 [main] INFO MongoseIniter - MongoDB open:deliverwater
+2017-12-21 18:12:39.868 [main] ERROR server - [object Object]
+2017-12-21 18:12:39.869 [main] ERROR server - Error: ENOENT: no such file or directory, open '/Users/jsen/Documents/GitProjects/POJ/DeliverWater/Server/DeliverUser/runtime/lock'
+2017-12-21 18:12:39.871 [main] INFO server - 服务器端口：7084
+2017-12-21 18:12:39.874 [main] ERROR server - [object Object]
+2017-12-21 18:12:39.875 [main] ERROR server - Error: ENOENT: no such file or directory, open '/Users/jsen/Documents/GitProjects/POJ/DeliverWater/Server/DeliverUser/runtime/lock'
+2017-12-21 18:12:39.877 [main] INFO MongoseIniter - MongoDB open:deliverwater
+2017-12-21 18:12:39.878 [main] INFO server - 服务器端口：7084
+2017-12-21 18:12:39.882 [main] INFO MongoseIniter - MongoDB open:deliverwater
+2017-12-21 18:12:39.890 [main] INFO MongoseIniter - MongoDB open:deliverwater
+2017-12-21 18:12:39.891 [main] INFO MongoseIniter - MongoDB open:deliverwater
+2017-12-21 18:12:39.895 [main] INFO MongoseIniter - MongoDB open:deliverwater
+2017-12-21 18:12:39.935 [main] ERROR server - [object Object]
+2017-12-21 18:12:39.936 [main] ERROR server - Error: ENOENT: no such file or directory, open '/Users/jsen/Documents/GitProjects/POJ/DeliverWater/Server/DeliverUser/runtime/lock'
+2017-12-21 18:12:39.938 [main] INFO server - 服务器端口：7084
+2017-12-21 18:12:39.941 [main] ERROR server - [object Object]
+2017-12-21 18:12:39.942 [main] ERROR server - Error: ENOENT: no such file or directory, open '/Users/jsen/Documents/GitProjects/POJ/DeliverWater/Server/DeliverUser/runtime/lock'
+2017-12-21 18:12:39.943 [main] INFO server - 服务器端口：7084
+2017-12-21 18:12:39.950 [main] INFO MongoseIniter - MongoDB open:deliverwater
+2017-12-21 18:12:39.955 [main] INFO MongoseIniter - MongoDB open:deliverwater
+2017-12-21 18:12:40.145 [main] INFO Task - register succeed at time:Thu Dec 21 2017 18:23:40 GMT+0800 (CST)
+2017-12-21 18:12:40.151 [main] INFO Task - register succeed at time:Thu Dec 21 2017 18:23:40 GMT+0800 (CST)
+2017-12-21 18:12:40.158 [main] INFO Task - register succeed at time:Thu Dec 21 2017 18:23:40 GMT+0800 (CST)
+2017-12-21 18:12:40.158 [main] INFO Task - register succeed at time:Thu Dec 21 2017 18:23:40 GMT+0800 (CST)
+2017-12-21 18:12:40.161 [main] INFO Task - register succeed at time:Thu Dec 21 2017 18:23:40 GMT+0800 (CST)
+2017-12-21 18:12:40.166 [main] INFO Task - register succeed at time:Thu Dec 21 2017 18:23:40 GMT+0800 (CST)
+2017-12-21 18:12:40.167 [main] INFO Task - register succeed at time:Thu Dec 21 2017 18:23:40 GMT+0800 (CST)
+2017-12-21 18:12:40.168 [main] INFO Task - register succeed at time:Thu Dec 21 2017 18:23:40 GMT+0800 (CST)
+2017-12-21 18:12:42.509 [main] INFO ControllerServer - adminLogin Api Call
+2017-12-21 18:12:36.652 [main] ERROR server - Error: ENOENT: no such file or directory, open '/Users/jsen/Documents/GitProjects/POJ/DeliverWater/Server/DeliverUser/runtime/lock'
+2017-12-21 18:12:36.655 [main] ERROR server - Error: ENOENT: no such file or directory, open '/Users/jsen/Documents/GitProjects/POJ/DeliverWater/Server/DeliverUser/runtime/lock'
+2017-12-21 18:12:36.681 [main] INFO MongoseIniter - MongoDB open:deliverwater
+2017-12-21 18:12:37.157 [main] INFO Task - register succeed at time:Thu Dec 21 2017 18:24:37 GMT+0800 (CST)
+2017-12-21 18:12:37.706 [main] ERROR server - [object Object]
+2017-12-21 18:12:37.707 [main] ERROR server - Error: ENOENT: no such file or directory, open '/Users/jsen/Documents/GitProjects/POJ/DeliverWater/Server/DeliverUser/runtime/lock'
+2017-12-21 18:12:37.709 [main] INFO server - 服务器端口：7084
+2017-12-21 18:12:37.738 [main] INFO MongoseIniter - MongoDB open:deliverwater
+2017-12-21 18:12:37.751 [main] ERROR server - [object Object]
+2017-12-21 18:12:37.752 [main] ERROR server - Error: ENOENT: no such file or directory, open '/Users/jsen/Documents/GitProjects/POJ/DeliverWater/Server/DeliverUser/runtime/lock'
+2017-12-21 18:12:37.754 [main] INFO server - 服务器端口：7084
+2017-12-21 18:12:37.763 [main] ERROR server - [object Object]
+2017-12-21 18:12:37.764 [main] ERROR server - Error: ENOENT: no such file or directory, open '/Users/jsen/Documents/GitProjects/POJ/DeliverWater/Server/DeliverUser/runtime/lock'
+2017-12-21 18:12:37.765 [main] ERROR server - [object Object]
+2017-12-21 18:12:37.766 [main] ERROR server - Error: ENOENT: no such file or directory, open '/Users/jsen/Documents/GitProjects/POJ/DeliverWater/Server/DeliverUser/runtime/lock'
+2017-12-21 18:12:37.766 [main] INFO server - 服务器端口：7084
+2017-12-21 18:12:37.769 [main] INFO server - 服务器端口：7084
+2017-12-21 18:12:37.775 [main] INFO MongoseIniter - MongoDB open:deliverwater
+2017-12-21 18:12:37.775 [main] ERROR server - [object Object]
+2017-12-21 18:12:37.776 [main] ERROR server - Error: ENOENT: no such file or directory, open '/Users/jsen/Documents/GitProjects/POJ/DeliverWater/Server/DeliverUser/runtime/lock'
+2017-12-21 18:12:37.775 [main] ERROR server - [object Object]
+2017-12-21 18:12:37.776 [main] ERROR server - Error: ENOENT: no such file or directory, open '/Users/jsen/Documents/GitProjects/POJ/DeliverWater/Server/DeliverUser/runtime/lock'
+2017-12-21 18:12:37.778 [main] INFO server - 服务器端口：7084
+2017-12-21 18:12:37.779 [main] INFO server - 服务器端口：7084
+2017-12-21 18:12:37.786 [main] ERROR server - [object Object]
+2017-12-21 18:12:37.787 [main] ERROR server - Error: ENOENT: no such file or directory, open '/Users/jsen/Documents/GitProjects/POJ/DeliverWater/Server/DeliverUser/runtime/lock'
+2017-12-21 18:12:37.789 [main] INFO MongoseIniter - MongoDB open:deliverwater
+2017-12-21 18:12:37.789 [main] INFO server - 服务器端口：7084
+2017-12-21 18:12:37.790 [main] INFO MongoseIniter - MongoDB open:deliverwater
+2017-12-21 18:12:37.799 [main] INFO MongoseIniter - MongoDB open:deliverwater
+2017-12-21 18:12:37.799 [main] INFO MongoseIniter - MongoDB open:deliverwater
+2017-12-21 18:12:37.803 [main] ERROR server - [object Object]
+2017-12-21 18:12:37.803 [main] ERROR server - Error: ENOENT: no such file or directory, open '/Users/jsen/Documents/GitProjects/POJ/DeliverWater/Server/DeliverUser/runtime/lock'
+2017-12-21 18:12:37.805 [main] INFO MongoseIniter - MongoDB open:deliverwater
+2017-12-21 18:12:37.806 [main] INFO server - 服务器端口：7084
+2017-12-21 18:12:37.817 [main] INFO MongoseIniter - MongoDB open:deliverwater
+2017-12-21 18:12:38.143 [main] INFO Task - register succeed at time:Thu Dec 21 2017 18:24:38 GMT+0800 (CST)
+2017-12-21 18:12:38.150 [main] INFO Task - register succeed at time:Thu Dec 21 2017 18:24:38 GMT+0800 (CST)
+2017-12-21 18:12:38.150 [main] INFO Task - register succeed at time:Thu Dec 21 2017 18:24:38 GMT+0800 (CST)
+2017-12-21 18:12:38.165 [main] INFO Task - register succeed at time:Thu Dec 21 2017 18:24:38 GMT+0800 (CST)
+2017-12-21 18:12:38.165 [main] INFO Task - register succeed at time:Thu Dec 21 2017 18:24:38 GMT+0800 (CST)
+2017-12-21 18:12:38.166 [main] INFO Task - register succeed at time:Thu Dec 21 2017 18:24:38 GMT+0800 (CST)
+2017-12-21 18:12:38.166 [main] INFO Task - register succeed at time:Thu Dec 21 2017 18:24:38 GMT+0800 (CST)
+2017-12-21 18:12:38.166 [main] INFO Task - register succeed at time:Thu Dec 21 2017 18:24:38 GMT+0800 (CST)
+2017-12-21 18:12:41.854 [main] INFO ControllerServer - adminLogin Api Call
+2017-12-21 18:12:34.144 [main] ERROR server - Error: ENOENT: no such file or directory, open '/Users/jsen/Documents/GitProjects/POJ/DeliverWater/Server/DeliverUser/runtime/lock'
+2017-12-21 18:12:34.147 [main] ERROR server - Error: ENOENT: no such file or directory, open '/Users/jsen/Documents/GitProjects/POJ/DeliverWater/Server/DeliverUser/runtime/lock'
+2017-12-21 18:12:34.183 [main] INFO MongoseIniter - MongoDB open:deliverwater
+2017-12-21 18:12:35.154 [main] INFO Task - register succeed at time:Thu Dec 21 2017 18:25:35 GMT+0800 (CST)
+2017-12-21 18:12:35.432 [main] ERROR server - [object Object]
+2017-12-21 18:12:35.433 [main] ERROR server - Error: ENOENT: no such file or directory, open '/Users/jsen/Documents/GitProjects/POJ/DeliverWater/Server/DeliverUser/runtime/lock'
+2017-12-21 18:12:35.436 [main] INFO server - 服务器端口：7084
+2017-12-21 18:12:35.446 [main] ERROR server - [object Object]
+2017-12-21 18:12:35.447 [main] ERROR server - Error: ENOENT: no such file or directory, open '/Users/jsen/Documents/GitProjects/POJ/DeliverWater/Server/DeliverUser/runtime/lock'
+2017-12-21 18:12:35.465 [main] INFO server - 服务器端口：7084
+2017-12-21 18:12:35.476 [main] ERROR server - [object Object]
+2017-12-21 18:12:35.477 [main] ERROR server - Error: ENOENT: no such file or directory, open '/Users/jsen/Documents/GitProjects/POJ/DeliverWater/Server/DeliverUser/runtime/lock'
+2017-12-21 18:12:35.492 [main] INFO MongoseIniter - MongoDB open:deliverwater
+2017-12-21 18:12:35.497 [main] INFO server - 服务器端口：7084
+2017-12-21 18:12:35.510 [main] INFO MongoseIniter - MongoDB open:deliverwater
+2017-12-21 18:12:35.515 [main] ERROR server - [object Object]
+2017-12-21 18:12:35.516 [main] ERROR server - Error: ENOENT: no such file or directory, open '/Users/jsen/Documents/GitProjects/POJ/DeliverWater/Server/DeliverUser/runtime/lock'
+2017-12-21 18:12:35.519 [main] INFO server - 服务器端口：7084
+2017-12-21 18:12:35.521 [main] ERROR server - [object Object]
+2017-12-21 18:12:35.522 [main] ERROR server - Error: ENOENT: no such file or directory, open '/Users/jsen/Documents/GitProjects/POJ/DeliverWater/Server/DeliverUser/runtime/lock'
+2017-12-21 18:12:35.522 [main] ERROR server - [object Object]
+2017-12-21 18:12:35.522 [main] ERROR server - Error: ENOENT: no such file or directory, open '/Users/jsen/Documents/GitProjects/POJ/DeliverWater/Server/DeliverUser/runtime/lock'
+2017-12-21 18:12:35.522 [main] INFO MongoseIniter - MongoDB open:deliverwater
+2017-12-21 18:12:35.525 [main] INFO server - 服务器端口：7084
+2017-12-21 18:12:35.527 [main] INFO server - 服务器端口：7084
+2017-12-21 18:12:35.544 [main] INFO MongoseIniter - MongoDB open:deliverwater
+2017-12-21 18:12:35.546 [main] INFO MongoseIniter - MongoDB open:deliverwater
+2017-12-21 18:12:35.552 [main] INFO MongoseIniter - MongoDB open:deliverwater
+2017-12-21 18:12:35.578 [main] ERROR server - [object Object]
+2017-12-21 18:12:35.579 [main] ERROR server - Error: ENOENT: no such file or directory, open '/Users/jsen/Documents/GitProjects/POJ/DeliverWater/Server/DeliverUser/runtime/lock'
+2017-12-21 18:12:35.581 [main] INFO server - 服务器端口：7084
+2017-12-21 18:12:35.595 [main] INFO MongoseIniter - MongoDB open:deliverwater
+2017-12-21 18:12:35.602 [main] ERROR server - [object Object]
+2017-12-21 18:12:35.603 [main] ERROR server - Error: ENOENT: no such file or directory, open '/Users/jsen/Documents/GitProjects/POJ/DeliverWater/Server/DeliverUser/runtime/lock'
+2017-12-21 18:12:35.605 [main] INFO server - 服务器端口：7084
+2017-12-21 18:12:35.619 [main] INFO MongoseIniter - MongoDB open:deliverwater
+2017-12-21 18:12:36.149 [main] INFO Task - register succeed at time:Thu Dec 21 2017 18:25:36 GMT+0800 (CST)
+2017-12-21 18:12:36.149 [main] INFO Task - register succeed at time:Thu Dec 21 2017 18:25:36 GMT+0800 (CST)
+2017-12-21 18:12:36.149 [main] INFO Task - register succeed at time:Thu Dec 21 2017 18:25:36 GMT+0800 (CST)
+2017-12-21 18:12:36.149 [main] INFO Task - register succeed at time:Thu Dec 21 2017 18:25:36 GMT+0800 (CST)
+2017-12-21 18:12:36.156 [main] INFO Task - register succeed at time:Thu Dec 21 2017 18:25:36 GMT+0800 (CST)
+2017-12-21 18:12:36.162 [main] INFO Task - register succeed at time:Thu Dec 21 2017 18:25:36 GMT+0800 (CST)
+2017-12-21 18:12:36.165 [main] INFO Task - register succeed at time:Thu Dec 21 2017 18:25:36 GMT+0800 (CST)
+2017-12-21 18:12:36.167 [main] INFO Task - register succeed at time:Thu Dec 21 2017 18:25:36 GMT+0800 (CST)
+2017-12-21 18:12:36.140 [main] INFO Task - register succeed at time:Thu Dec 21 2017 18:26:36 GMT+0800 (CST)
+2017-12-21 18:12:36.157 [main] INFO Task - register succeed at time:Thu Dec 21 2017 18:26:36 GMT+0800 (CST)
+2017-12-21 18:12:37.179 [main] INFO Task - register succeed at time:Thu Dec 21 2017 18:26:37 GMT+0800 (CST)
+2017-12-21 18:12:37.179 [main] INFO Task - register succeed at time:Thu Dec 21 2017 18:26:37 GMT+0800 (CST)
+2017-12-21 18:12:37.179 [main] INFO Task - register succeed at time:Thu Dec 21 2017 18:26:37 GMT+0800 (CST)
+2017-12-21 18:12:37.179 [main] INFO Task - register succeed at time:Thu Dec 21 2017 18:26:37 GMT+0800 (CST)
+2017-12-21 18:12:37.179 [main] INFO Task - register succeed at time:Thu Dec 21 2017 18:26:37 GMT+0800 (CST)
+2017-12-21 18:12:37.179 [main] INFO Task - register succeed at time:Thu Dec 21 2017 18:26:37 GMT+0800 (CST)
+2017-12-21 18:12:37.179 [main] INFO Task - register succeed at time:Thu Dec 21 2017 18:26:37 GMT+0800 (CST)
+2017-12-21 18:12:37.133 [main] INFO Task - register succeed at time:Thu Dec 21 2017 18:27:37 GMT+0800 (CST)
+2017-12-21 18:12:37.145 [main] INFO Task - register succeed at time:Thu Dec 21 2017 18:27:37 GMT+0800 (CST)
+2017-12-21 18:12:38.154 [main] INFO Task - register succeed at time:Thu Dec 21 2017 18:27:38 GMT+0800 (CST)
+2017-12-21 18:12:38.156 [main] INFO Task - register succeed at time:Thu Dec 21 2017 18:27:38 GMT+0800 (CST)
+2017-12-21 18:12:38.163 [main] INFO Task - register succeed at time:Thu Dec 21 2017 18:27:38 GMT+0800 (CST)
+2017-12-21 18:12:38.167 [main] INFO Task - register succeed at time:Thu Dec 21 2017 18:27:38 GMT+0800 (CST)
+2017-12-21 18:12:38.170 [main] INFO Task - register succeed at time:Thu Dec 21 2017 18:27:38 GMT+0800 (CST)
+2017-12-21 18:12:38.170 [main] INFO Task - register succeed at time:Thu Dec 21 2017 18:27:38 GMT+0800 (CST)
+2017-12-21 18:12:38.170 [main] INFO Task - register succeed at time:Thu Dec 21 2017 18:27:38 GMT+0800 (CST)
+2017-12-21 18:12:19.513 [main] ERROR server - Error: ENOENT: no such file or directory, open '/Users/jsen/Documents/GitProjects/POJ/DeliverWater/Server/DeliverUser/runtime/lock'
+2017-12-21 18:12:19.516 [main] ERROR server - Error: ENOENT: no such file or directory, open '/Users/jsen/Documents/GitProjects/POJ/DeliverWater/Server/DeliverUser/runtime/lock'
+2017-12-21 18:12:19.550 [main] INFO MongoseIniter - MongoDB open:deliverwater
+2017-12-21 18:12:20.165 [main] INFO Task - register succeed at time:Thu Dec 21 2017 18:29:20 GMT+0800 (CST)
+2017-12-21 18:12:20.823 [main] ERROR server - [object Object]
+2017-12-21 18:12:20.824 [main] ERROR server - Error: ENOENT: no such file or directory, open '/Users/jsen/Documents/GitProjects/POJ/DeliverWater/Server/DeliverUser/runtime/lock'
+2017-12-21 18:12:20.826 [main] INFO server - 服务器端口：7084
+2017-12-21 18:12:20.830 [main] ERROR server - [object Object]
+2017-12-21 18:12:20.831 [main] ERROR server - Error: ENOENT: no such file or directory, open '/Users/jsen/Documents/GitProjects/POJ/DeliverWater/Server/DeliverUser/runtime/lock'
+2017-12-21 18:12:20.833 [main] INFO server - 服务器端口：7084
+2017-12-21 18:12:20.855 [main] INFO MongoseIniter - MongoDB open:deliverwater
+2017-12-21 18:12:20.859 [main] INFO MongoseIniter - MongoDB open:deliverwater
+2017-12-21 18:12:20.863 [main] ERROR server - [object Object]
+2017-12-21 18:12:20.864 [main] ERROR server - Error: ENOENT: no such file or directory, open '/Users/jsen/Documents/GitProjects/POJ/DeliverWater/Server/DeliverUser/runtime/lock'
+2017-12-21 18:12:20.866 [main] INFO server - 服务器端口：7084
+2017-12-21 18:12:20.868 [main] ERROR server - [object Object]
+2017-12-21 18:12:20.869 [main] ERROR server - Error: ENOENT: no such file or directory, open '/Users/jsen/Documents/GitProjects/POJ/DeliverWater/Server/DeliverUser/runtime/lock'
+2017-12-21 18:12:20.871 [main] INFO server - 服务器端口：7084
+2017-12-21 18:12:20.878 [main] ERROR server - [object Object]
+2017-12-21 18:12:20.879 [main] ERROR server - Error: ENOENT: no such file or directory, open '/Users/jsen/Documents/GitProjects/POJ/DeliverWater/Server/DeliverUser/runtime/lock'
+2017-12-21 18:12:20.881 [main] INFO server - 服务器端口：7084
+2017-12-21 18:12:20.884 [main] INFO MongoseIniter - MongoDB open:deliverwater
+2017-12-21 18:12:20.897 [main] ERROR server - [object Object]
+2017-12-21 18:12:20.898 [main] ERROR server - Error: ENOENT: no such file or directory, open '/Users/jsen/Documents/GitProjects/POJ/DeliverWater/Server/DeliverUser/runtime/lock'
+2017-12-21 18:12:20.899 [main] ERROR server - [object Object]
+2017-12-21 18:12:20.900 [main] ERROR server - Error: ENOENT: no such file or directory, open '/Users/jsen/Documents/GitProjects/POJ/DeliverWater/Server/DeliverUser/runtime/lock'
+2017-12-21 18:12:20.899 [main] INFO MongoseIniter - MongoDB open:deliverwater
+2017-12-21 18:12:20.901 [main] INFO server - 服务器端口：7084
+2017-12-21 18:12:20.902 [main] INFO server - 服务器端口：7084
+2017-12-21 18:12:20.903 [main] INFO MongoseIniter - MongoDB open:deliverwater
+2017-12-21 18:12:20.917 [main] INFO MongoseIniter - MongoDB open:deliverwater
+2017-12-21 18:12:20.919 [main] INFO MongoseIniter - MongoDB open:deliverwater
+2017-12-21 18:12:20.923 [main] ERROR server - [object Object]
+2017-12-21 18:12:20.923 [main] ERROR server - Error: ENOENT: no such file or directory, open '/Users/jsen/Documents/GitProjects/POJ/DeliverWater/Server/DeliverUser/runtime/lock'
+2017-12-21 18:12:20.926 [main] INFO server - 服务器端口：7084
+2017-12-21 18:12:20.941 [main] INFO MongoseIniter - MongoDB open:deliverwater
+2017-12-21 18:12:21.147 [main] INFO Task - register succeed at time:Thu Dec 21 2017 18:29:21 GMT+0800 (CST)
+2017-12-21 18:12:21.150 [main] INFO Task - register succeed at time:Thu Dec 21 2017 18:29:21 GMT+0800 (CST)
+2017-12-21 18:12:21.151 [main] INFO Task - register succeed at time:Thu Dec 21 2017 18:29:21 GMT+0800 (CST)
+2017-12-21 18:12:21.159 [main] INFO Task - register succeed at time:Thu Dec 21 2017 18:29:21 GMT+0800 (CST)
+2017-12-21 18:12:21.161 [main] INFO Task - register succeed at time:Thu Dec 21 2017 18:29:21 GMT+0800 (CST)
+2017-12-21 18:12:21.167 [main] INFO Task - register succeed at time:Thu Dec 21 2017 18:29:21 GMT+0800 (CST)
+2017-12-21 18:12:21.174 [main] INFO Task - register succeed at time:Thu Dec 21 2017 18:29:21 GMT+0800 (CST)
+2017-12-21 18:12:21.180 [main] INFO Task - register succeed at time:Thu Dec 21 2017 18:29:21 GMT+0800 (CST)
+2017-12-21 18:12:23.995 [main] INFO ControllerServer - adminLogin Api Call
+2017-12-21 18:12:37.651 [main] INFO ControllerServer - createUser Api Call
+2017-12-21 18:12:21.135 [main] INFO Task - register succeed at time:Thu Dec 21 2017 18:30:21 GMT+0800 (CST)
+2017-12-21 18:12:21.145 [main] INFO Task - register succeed at time:Thu Dec 21 2017 18:30:21 GMT+0800 (CST)
+2017-12-21 18:12:22.140 [main] INFO Task - register succeed at time:Thu Dec 21 2017 18:30:22 GMT+0800 (CST)
+2017-12-21 18:12:22.144 [main] INFO Task - register succeed at time:Thu Dec 21 2017 18:30:22 GMT+0800 (CST)
+2017-12-21 18:12:22.148 [main] INFO Task - register succeed at time:Thu Dec 21 2017 18:30:22 GMT+0800 (CST)
+2017-12-21 18:12:22.150 [main] INFO Task - register succeed at time:Thu Dec 21 2017 18:30:22 GMT+0800 (CST)
+2017-12-21 18:12:22.153 [main] INFO Task - register succeed at time:Thu Dec 21 2017 18:30:22 GMT+0800 (CST)
+2017-12-21 18:12:22.154 [main] INFO Task - register succeed at time:Thu Dec 21 2017 18:30:22 GMT+0800 (CST)
+2017-12-21 18:12:24.185 [main] INFO Task - register succeed at time:Thu Dec 21 2017 18:30:24 GMT+0800 (CST)
+2017-12-21 18:12:22.136 [main] INFO Task - register succeed at time:Thu Dec 21 2017 18:31:22 GMT+0800 (CST)
+2017-12-21 18:12:22.142 [main] INFO Task - register succeed at time:Thu Dec 21 2017 18:31:22 GMT+0800 (CST)
+2017-12-21 18:12:23.134 [main] INFO Task - register succeed at time:Thu Dec 21 2017 18:31:23 GMT+0800 (CST)
+2017-12-21 18:12:23.141 [main] INFO Task - register succeed at time:Thu Dec 21 2017 18:31:23 GMT+0800 (CST)
+2017-12-21 18:12:23.150 [main] INFO Task - register succeed at time:Thu Dec 21 2017 18:31:23 GMT+0800 (CST)
+2017-12-21 18:12:23.150 [main] INFO Task - register succeed at time:Thu Dec 21 2017 18:31:23 GMT+0800 (CST)
+2017-12-21 18:12:23.154 [main] INFO Task - register succeed at time:Thu Dec 21 2017 18:31:23 GMT+0800 (CST)
+2017-12-21 18:12:23.156 [main] INFO Task - register succeed at time:Thu Dec 21 2017 18:31:23 GMT+0800 (CST)
+2017-12-21 18:12:23.160 [main] INFO Task - register succeed at time:Thu Dec 21 2017 18:31:23 GMT+0800 (CST)
+2017-12-21 18:12:29.599 [main] INFO ControllerServer - createUser Api Call
+2017-12-21 18:12:13.173 [main] INFO ControllerServer - adminLogin Api Call
+2017-12-21 18:12:23.133 [main] INFO Task - register succeed at time:Thu Dec 21 2017 18:32:23 GMT+0800 (CST)
+2017-12-21 18:12:23.145 [main] INFO Task - register succeed at time:Thu Dec 21 2017 18:32:23 GMT+0800 (CST)
+2017-12-21 18:12:23.153 [main] INFO Task - register succeed at time:Thu Dec 21 2017 18:32:23 GMT+0800 (CST)
+2017-12-21 18:12:24.149 [main] INFO Task - register succeed at time:Thu Dec 21 2017 18:32:24 GMT+0800 (CST)
+2017-12-21 18:12:24.165 [main] INFO Task - register succeed at time:Thu Dec 21 2017 18:32:24 GMT+0800 (CST)
+2017-12-21 18:12:24.166 [main] INFO Task - register succeed at time:Thu Dec 21 2017 18:32:24 GMT+0800 (CST)
+2017-12-21 18:12:24.170 [main] INFO Task - register succeed at time:Thu Dec 21 2017 18:32:24 GMT+0800 (CST)
+2017-12-21 18:12:24.173 [main] INFO Task - register succeed at time:Thu Dec 21 2017 18:32:24 GMT+0800 (CST)
+2017-12-21 18:12:24.175 [main] INFO Task - register succeed at time:Thu Dec 21 2017 18:32:24 GMT+0800 (CST)
+2017-12-21 18:12:00.487 [main] ERROR server - Error: ENOENT: no such file or directory, open '/Users/jsen/Documents/GitProjects/POJ/DeliverWater/Server/DeliverUser/runtime/lock'
+2017-12-21 18:12:00.490 [main] ERROR server - Error: ENOENT: no such file or directory, open '/Users/jsen/Documents/GitProjects/POJ/DeliverWater/Server/DeliverUser/runtime/lock'
+2017-12-21 18:12:00.518 [main] INFO MongoseIniter - MongoDB open:deliverwater
+2017-12-21 18:12:01.142 [main] INFO Task - register succeed at time:Thu Dec 21 2017 18:33:01 GMT+0800 (CST)
+2017-12-21 18:12:01.581 [main] ERROR server - [object Object]
+2017-12-21 18:12:01.582 [main] ERROR server - Error: ENOENT: no such file or directory, open '/Users/jsen/Documents/GitProjects/POJ/DeliverWater/Server/DeliverUser/runtime/lock'
+2017-12-21 18:12:01.585 [main] INFO server - 服务器端口：7084
+2017-12-21 18:12:01.602 [main] INFO MongoseIniter - MongoDB open:deliverwater
+2017-12-21 18:12:01.603 [main] ERROR server - [object Object]
+2017-12-21 18:12:01.604 [main] ERROR server - Error: ENOENT: no such file or directory, open '/Users/jsen/Documents/GitProjects/POJ/DeliverWater/Server/DeliverUser/runtime/lock'
+2017-12-21 18:12:01.606 [main] INFO server - 服务器端口：7084
+2017-12-21 18:12:01.623 [main] INFO MongoseIniter - MongoDB open:deliverwater
+2017-12-21 18:12:01.625 [main] ERROR server - [object Object]
+2017-12-21 18:12:01.627 [main] ERROR server - Error: ENOENT: no such file or directory, open '/Users/jsen/Documents/GitProjects/POJ/DeliverWater/Server/DeliverUser/runtime/lock'
+2017-12-21 18:12:01.631 [main] INFO server - 服务器端口：7084
+2017-12-21 18:12:01.635 [main] ERROR server - [object Object]
+2017-12-21 18:12:01.636 [main] ERROR server - Error: ENOENT: no such file or directory, open '/Users/jsen/Documents/GitProjects/POJ/DeliverWater/Server/DeliverUser/runtime/lock'
+2017-12-21 18:12:01.636 [main] ERROR server - [object Object]
+2017-12-21 18:12:01.637 [main] ERROR server - Error: ENOENT: no such file or directory, open '/Users/jsen/Documents/GitProjects/POJ/DeliverWater/Server/DeliverUser/runtime/lock'
+2017-12-21 18:12:01.639 [main] INFO server - 服务器端口：7084
+2017-12-21 18:12:01.639 [main] INFO server - 服务器端口：7084
+2017-12-21 18:12:01.652 [main] INFO MongoseIniter - MongoDB open:deliverwater
+2017-12-21 18:12:01.653 [main] ERROR server - [object Object]
+2017-12-21 18:12:01.653 [main] ERROR server - Error: ENOENT: no such file or directory, open '/Users/jsen/Documents/GitProjects/POJ/DeliverWater/Server/DeliverUser/runtime/lock'
+2017-12-21 18:12:01.656 [main] INFO server - 服务器端口：7084
+2017-12-21 18:12:01.656 [main] ERROR server - [object Object]
+2017-12-21 18:12:01.657 [main] ERROR server - Error: ENOENT: no such file or directory, open '/Users/jsen/Documents/GitProjects/POJ/DeliverWater/Server/DeliverUser/runtime/lock'
+2017-12-21 18:12:01.657 [main] INFO MongoseIniter - MongoDB open:deliverwater
+2017-12-21 18:12:01.659 [main] INFO server - 服务器端口：7084
+2017-12-21 18:12:01.659 [main] ERROR server - [object Object]
+2017-12-21 18:12:01.660 [main] ERROR server - Error: ENOENT: no such file or directory, open '/Users/jsen/Documents/GitProjects/POJ/DeliverWater/Server/DeliverUser/runtime/lock'
+2017-12-21 18:12:01.663 [main] INFO server - 服务器端口：7084
+2017-12-21 18:12:01.664 [main] INFO MongoseIniter - MongoDB open:deliverwater
+2017-12-21 18:12:01.672 [main] INFO MongoseIniter - MongoDB open:deliverwater
+2017-12-21 18:12:01.674 [main] INFO MongoseIniter - MongoDB open:deliverwater
+2017-12-21 18:12:01.676 [main] INFO MongoseIniter - MongoDB open:deliverwater
+2017-12-21 18:12:02.148 [main] INFO Task - register succeed at time:Thu Dec 21 2017 18:33:02 GMT+0800 (CST)
+2017-12-21 18:12:02.148 [main] INFO Task - register succeed at time:Thu Dec 21 2017 18:33:02 GMT+0800 (CST)
+2017-12-21 18:12:02.151 [main] INFO Task - register succeed at time:Thu Dec 21 2017 18:33:02 GMT+0800 (CST)
+2017-12-21 18:12:02.162 [main] INFO Task - register succeed at time:Thu Dec 21 2017 18:33:02 GMT+0800 (CST)
+2017-12-21 18:12:02.164 [main] INFO Task - register succeed at time:Thu Dec 21 2017 18:33:02 GMT+0800 (CST)
+2017-12-21 18:12:02.164 [main] INFO Task - register succeed at time:Thu Dec 21 2017 18:33:02 GMT+0800 (CST)
+2017-12-21 18:12:02.166 [main] INFO Task - register succeed at time:Thu Dec 21 2017 18:33:02 GMT+0800 (CST)
+2017-12-21 18:12:02.166 [main] INFO Task - register succeed at time:Thu Dec 21 2017 18:33:02 GMT+0800 (CST)
+2017-12-21 18:12:04.949 [main] INFO ControllerServer - adminLogin Api Call
+2017-12-21 18:12:13.786 [main] INFO ControllerServer - adminLogin Api Call
+2017-12-21 18:12:17.036 [main] INFO ControllerServer - adminLogin Api Call
+2017-12-21 18:12:02.133 [main] INFO Task - register succeed at time:Thu Dec 21 2017 18:34:02 GMT+0800 (CST)
+2017-12-21 18:12:02.137 [main] INFO Task - register succeed at time:Thu Dec 21 2017 18:34:02 GMT+0800 (CST)
+2017-12-21 18:12:02.143 [main] INFO Task - register succeed at time:Thu Dec 21 2017 18:34:02 GMT+0800 (CST)
+2017-12-21 18:12:02.148 [main] INFO Task - register succeed at time:Thu Dec 21 2017 18:34:02 GMT+0800 (CST)
+2017-12-21 18:12:02.149 [main] INFO Task - register succeed at time:Thu Dec 21 2017 18:34:02 GMT+0800 (CST)
+2017-12-21 18:12:02.155 [main] INFO Task - register succeed at time:Thu Dec 21 2017 18:34:02 GMT+0800 (CST)
+2017-12-21 18:12:03.137 [main] INFO Task - register succeed at time:Thu Dec 21 2017 18:34:03 GMT+0800 (CST)
+2017-12-21 18:12:03.150 [main] INFO Task - register succeed at time:Thu Dec 21 2017 18:34:03 GMT+0800 (CST)
+2017-12-21 18:12:03.150 [main] INFO Task - register succeed at time:Thu Dec 21 2017 18:34:03 GMT+0800 (CST)
+2017-12-21 18:12:03.139 [main] INFO Task - register succeed at time:Thu Dec 21 2017 18:35:03 GMT+0800 (CST)
+2017-12-21 18:12:03.139 [main] INFO Task - register succeed at time:Thu Dec 21 2017 18:35:03 GMT+0800 (CST)
+2017-12-21 18:12:03.148 [main] INFO Task - register succeed at time:Thu Dec 21 2017 18:35:03 GMT+0800 (CST)
+2017-12-21 18:12:03.148 [main] INFO Task - register succeed at time:Thu Dec 21 2017 18:35:03 GMT+0800 (CST)
+2017-12-21 18:12:03.150 [main] INFO Task - register succeed at time:Thu Dec 21 2017 18:35:03 GMT+0800 (CST)
+2017-12-21 18:12:03.151 [main] INFO Task - register succeed at time:Thu Dec 21 2017 18:35:03 GMT+0800 (CST)
+2017-12-21 18:12:04.161 [main] INFO Task - register succeed at time:Thu Dec 21 2017 18:35:04 GMT+0800 (CST)
+2017-12-21 18:12:04.164 [main] INFO Task - register succeed at time:Thu Dec 21 2017 18:35:04 GMT+0800 (CST)
+2017-12-21 18:12:04.173 [main] INFO Task - register succeed at time:Thu Dec 21 2017 18:35:04 GMT+0800 (CST)
+2017-12-21 18:12:04.139 [main] INFO Task - register succeed at time:Thu Dec 21 2017 18:36:04 GMT+0800 (CST)
+2017-12-21 18:12:04.143 [main] INFO Task - register succeed at time:Thu Dec 21 2017 18:36:04 GMT+0800 (CST)
+2017-12-21 18:12:04.148 [main] INFO Task - register succeed at time:Thu Dec 21 2017 18:36:04 GMT+0800 (CST)
+2017-12-21 18:12:04.150 [main] INFO Task - register succeed at time:Thu Dec 21 2017 18:36:04 GMT+0800 (CST)
+2017-12-21 18:12:04.162 [main] INFO Task - register succeed at time:Thu Dec 21 2017 18:36:04 GMT+0800 (CST)
+2017-12-21 18:12:04.162 [main] INFO Task - register succeed at time:Thu Dec 21 2017 18:36:04 GMT+0800 (CST)
+2017-12-21 18:12:04.162 [main] INFO Task - register succeed at time:Thu Dec 21 2017 18:36:04 GMT+0800 (CST)
+2017-12-21 18:12:04.164 [main] INFO Task - register succeed at time:Thu Dec 21 2017 18:36:04 GMT+0800 (CST)
+2017-12-21 18:12:04.167 [main] INFO Task - register succeed at time:Thu Dec 21 2017 18:36:04 GMT+0800 (CST)
+2017-12-21 18:12:05.134 [main] INFO Task - register succeed at time:Thu Dec 21 2017 18:37:05 GMT+0800 (CST)
+2017-12-21 18:12:05.136 [main] INFO Task - register succeed at time:Thu Dec 21 2017 18:37:05 GMT+0800 (CST)
+2017-12-21 18:12:05.136 [main] INFO Task - register succeed at time:Thu Dec 21 2017 18:37:05 GMT+0800 (CST)
+2017-12-21 18:12:05.145 [main] INFO Task - register succeed at time:Thu Dec 21 2017 18:37:05 GMT+0800 (CST)
+2017-12-21 18:12:05.145 [main] INFO Task - register succeed at time:Thu Dec 21 2017 18:37:05 GMT+0800 (CST)
+2017-12-21 18:12:05.158 [main] INFO Task - register succeed at time:Thu Dec 21 2017 18:37:05 GMT+0800 (CST)
+2017-12-21 18:12:05.159 [main] INFO Task - register succeed at time:Thu Dec 21 2017 18:37:05 GMT+0800 (CST)
+2017-12-21 18:12:05.159 [main] INFO Task - register succeed at time:Thu Dec 21 2017 18:37:05 GMT+0800 (CST)
+2017-12-21 18:12:05.160 [main] INFO Task - register succeed at time:Thu Dec 21 2017 18:37:05 GMT+0800 (CST)
+2017-12-21 18:12:05.141 [main] INFO Task - register succeed at time:Thu Dec 21 2017 18:38:05 GMT+0800 (CST)
+2017-12-21 18:12:05.142 [main] INFO Task - register succeed at time:Thu Dec 21 2017 18:38:05 GMT+0800 (CST)
+2017-12-21 18:12:05.143 [main] INFO Task - register succeed at time:Thu Dec 21 2017 18:38:05 GMT+0800 (CST)
+2017-12-21 18:12:05.145 [main] INFO Task - register succeed at time:Thu Dec 21 2017 18:38:05 GMT+0800 (CST)
+2017-12-21 18:12:05.149 [main] INFO Task - register succeed at time:Thu Dec 21 2017 18:38:05 GMT+0800 (CST)
+2017-12-21 18:12:05.152 [main] INFO Task - register succeed at time:Thu Dec 21 2017 18:38:05 GMT+0800 (CST)
+2017-12-21 18:12:05.152 [main] INFO Task - register succeed at time:Thu Dec 21 2017 18:38:05 GMT+0800 (CST)
+2017-12-21 18:12:05.157 [main] INFO Task - register succeed at time:Thu Dec 21 2017 18:38:05 GMT+0800 (CST)
+2017-12-21 18:12:05.174 [main] INFO Task - register succeed at time:Thu Dec 21 2017 18:38:05 GMT+0800 (CST)
+2017-12-21 18:12:06.140 [main] INFO Task - register succeed at time:Thu Dec 21 2017 18:39:06 GMT+0800 (CST)
+2017-12-21 18:12:06.141 [main] INFO Task - register succeed at time:Thu Dec 21 2017 18:39:06 GMT+0800 (CST)
+2017-12-21 18:12:06.144 [main] INFO Task - register succeed at time:Thu Dec 21 2017 18:39:06 GMT+0800 (CST)
+2017-12-21 18:12:06.145 [main] INFO Task - register succeed at time:Thu Dec 21 2017 18:39:06 GMT+0800 (CST)
+2017-12-21 18:12:06.148 [main] INFO Task - register succeed at time:Thu Dec 21 2017 18:39:06 GMT+0800 (CST)
+2017-12-21 18:12:06.155 [main] INFO Task - register succeed at time:Thu Dec 21 2017 18:39:06 GMT+0800 (CST)
+2017-12-21 18:12:06.162 [main] INFO Task - register succeed at time:Thu Dec 21 2017 18:39:06 GMT+0800 (CST)
+2017-12-21 18:12:09.166 [main] INFO Task - register succeed at time:Thu Dec 21 2017 18:39:09 GMT+0800 (CST)
+2017-12-21 18:12:09.174 [main] INFO Task - register succeed at time:Thu Dec 21 2017 18:39:09 GMT+0800 (CST)
+2017-12-21 18:12:07.157 [main] INFO Task - register succeed at time:Thu Dec 21 2017 18:40:07 GMT+0800 (CST)
+2017-12-21 18:12:07.157 [main] INFO Task - register succeed at time:Thu Dec 21 2017 18:40:07 GMT+0800 (CST)
+2017-12-21 18:12:07.157 [main] INFO Task - register succeed at time:Thu Dec 21 2017 18:40:07 GMT+0800 (CST)
+2017-12-21 18:12:07.160 [main] INFO Task - register succeed at time:Thu Dec 21 2017 18:40:07 GMT+0800 (CST)
+2017-12-21 18:12:07.164 [main] INFO Task - register succeed at time:Thu Dec 21 2017 18:40:07 GMT+0800 (CST)
+2017-12-21 18:12:07.164 [main] INFO Task - register succeed at time:Thu Dec 21 2017 18:40:07 GMT+0800 (CST)
+2017-12-21 18:12:07.169 [main] INFO Task - register succeed at time:Thu Dec 21 2017 18:40:07 GMT+0800 (CST)
+2017-12-21 18:12:07.171 [main] INFO Task - register succeed at time:Thu Dec 21 2017 18:40:07 GMT+0800 (CST)
+2017-12-21 18:12:07.172 [main] INFO Task - register succeed at time:Thu Dec 21 2017 18:40:07 GMT+0800 (CST)
+2017-12-21 18:12:07.152 [main] INFO Task - register succeed at time:Thu Dec 21 2017 18:41:07 GMT+0800 (CST)
+2017-12-21 18:12:08.134 [main] INFO Task - register succeed at time:Thu Dec 21 2017 18:41:08 GMT+0800 (CST)
+2017-12-21 18:12:08.139 [main] INFO Task - register succeed at time:Thu Dec 21 2017 18:41:08 GMT+0800 (CST)
+2017-12-21 18:12:08.140 [main] INFO Task - register succeed at time:Thu Dec 21 2017 18:41:08 GMT+0800 (CST)
+2017-12-21 18:12:08.141 [main] INFO Task - register succeed at time:Thu Dec 21 2017 18:41:08 GMT+0800 (CST)
+2017-12-21 18:12:08.149 [main] INFO Task - register succeed at time:Thu Dec 21 2017 18:41:08 GMT+0800 (CST)
+2017-12-21 18:12:08.152 [main] INFO Task - register succeed at time:Thu Dec 21 2017 18:41:08 GMT+0800 (CST)
+2017-12-21 18:12:08.154 [main] INFO Task - register succeed at time:Thu Dec 21 2017 18:41:08 GMT+0800 (CST)
+2017-12-21 18:12:08.155 [main] INFO Task - register succeed at time:Thu Dec 21 2017 18:41:08 GMT+0800 (CST)
+2017-12-21 18:12:08.134 [main] INFO Task - register succeed at time:Thu Dec 21 2017 18:42:08 GMT+0800 (CST)
+2017-12-21 18:12:08.135 [main] INFO Task - register succeed at time:Thu Dec 21 2017 18:42:08 GMT+0800 (CST)
+2017-12-21 18:12:08.138 [main] INFO Task - register succeed at time:Thu Dec 21 2017 18:42:08 GMT+0800 (CST)
+2017-12-21 18:12:08.141 [main] INFO Task - register succeed at time:Thu Dec 21 2017 18:42:08 GMT+0800 (CST)
+2017-12-21 18:12:08.145 [main] INFO Task - register succeed at time:Thu Dec 21 2017 18:42:08 GMT+0800 (CST)
+2017-12-21 18:12:08.149 [main] INFO Task - register succeed at time:Thu Dec 21 2017 18:42:08 GMT+0800 (CST)
+2017-12-21 18:12:08.151 [main] INFO Task - register succeed at time:Thu Dec 21 2017 18:42:08 GMT+0800 (CST)
+2017-12-21 18:12:08.151 [main] INFO Task - register succeed at time:Thu Dec 21 2017 18:42:08 GMT+0800 (CST)
+2017-12-21 18:12:08.152 [main] INFO Task - register succeed at time:Thu Dec 21 2017 18:42:08 GMT+0800 (CST)
+2017-12-21 18:12:08.168 [main] INFO Task - register succeed at time:Thu Dec 21 2017 18:43:08 GMT+0800 (CST)
+2017-12-21 18:12:09.141 [main] INFO Task - register succeed at time:Thu Dec 21 2017 18:43:09 GMT+0800 (CST)
+2017-12-21 18:12:09.145 [main] INFO Task - register succeed at time:Thu Dec 21 2017 18:43:09 GMT+0800 (CST)
+2017-12-21 18:12:09.170 [main] INFO Task - register succeed at time:Thu Dec 21 2017 18:43:09 GMT+0800 (CST)
+2017-12-21 18:12:09.175 [main] INFO Task - register succeed at time:Thu Dec 21 2017 18:43:09 GMT+0800 (CST)
+2017-12-21 18:12:09.179 [main] INFO Task - register succeed at time:Thu Dec 21 2017 18:43:09 GMT+0800 (CST)
+2017-12-21 18:12:09.180 [main] INFO Task - register succeed at time:Thu Dec 21 2017 18:43:09 GMT+0800 (CST)
+2017-12-21 18:12:09.181 [main] INFO Task - register succeed at time:Thu Dec 21 2017 18:43:09 GMT+0800 (CST)
+2017-12-21 18:12:09.183 [main] INFO Task - register succeed at time:Thu Dec 21 2017 18:43:09 GMT+0800 (CST)
+2017-12-21 18:12:09.146 [main] INFO Task - register succeed at time:Thu Dec 21 2017 18:44:09 GMT+0800 (CST)
+2017-12-21 18:12:09.146 [main] INFO Task - register succeed at time:Thu Dec 21 2017 18:44:09 GMT+0800 (CST)
+2017-12-21 18:12:09.150 [main] INFO Task - register succeed at time:Thu Dec 21 2017 18:44:09 GMT+0800 (CST)
+2017-12-21 18:12:09.157 [main] INFO Task - register succeed at time:Thu Dec 21 2017 18:44:09 GMT+0800 (CST)
+2017-12-21 18:12:09.159 [main] INFO Task - register succeed at time:Thu Dec 21 2017 18:44:09 GMT+0800 (CST)
+2017-12-21 18:12:09.160 [main] INFO Task - register succeed at time:Thu Dec 21 2017 18:44:09 GMT+0800 (CST)
+2017-12-21 18:12:09.164 [main] INFO Task - register succeed at time:Thu Dec 21 2017 18:44:09 GMT+0800 (CST)
+2017-12-21 18:12:09.166 [main] INFO Task - register succeed at time:Thu Dec 21 2017 18:44:09 GMT+0800 (CST)
+2017-12-21 18:12:09.166 [main] INFO Task - register succeed at time:Thu Dec 21 2017 18:44:09 GMT+0800 (CST)
+2017-12-21 18:12:10.134 [main] INFO Task - register succeed at time:Thu Dec 21 2017 18:45:10 GMT+0800 (CST)
+2017-12-21 18:12:10.134 [main] INFO Task - register succeed at time:Thu Dec 21 2017 18:45:10 GMT+0800 (CST)
+2017-12-21 18:12:10.136 [main] INFO Task - register succeed at time:Thu Dec 21 2017 18:45:10 GMT+0800 (CST)
+2017-12-21 18:12:10.138 [main] INFO Task - register succeed at time:Thu Dec 21 2017 18:45:10 GMT+0800 (CST)
+2017-12-21 18:12:10.140 [main] INFO Task - register succeed at time:Thu Dec 21 2017 18:45:10 GMT+0800 (CST)
+2017-12-21 18:12:10.149 [main] INFO Task - register succeed at time:Thu Dec 21 2017 18:45:10 GMT+0800 (CST)
+2017-12-21 18:12:10.150 [main] INFO Task - register succeed at time:Thu Dec 21 2017 18:45:10 GMT+0800 (CST)
+2017-12-21 18:12:10.166 [main] INFO Task - register succeed at time:Thu Dec 21 2017 18:45:10 GMT+0800 (CST)
+2017-12-21 18:12:10.166 [main] INFO Task - register succeed at time:Thu Dec 21 2017 18:45:10 GMT+0800 (CST)
+2017-12-21 18:12:46.227 [main] ERROR server - Error: ENOENT: no such file or directory, open '/Users/jsen/Documents/GitProjects/POJ/DeliverWater/Server/DeliverUser/runtime/lock'
+2017-12-21 18:12:46.230 [main] ERROR server - Error: ENOENT: no such file or directory, open '/Users/jsen/Documents/GitProjects/POJ/DeliverWater/Server/DeliverUser/runtime/lock'
+2017-12-21 18:12:46.280 [main] INFO MongoseIniter - MongoDB open:deliverwater
+2017-12-21 18:12:47.155 [main] INFO Task - register succeed at time:Thu Dec 21 2017 18:45:47 GMT+0800 (CST)
+2017-12-21 18:12:47.549 [main] ERROR server - [object Object]
+2017-12-21 18:12:47.550 [main] ERROR server - Error: ENOENT: no such file or directory, open '/Users/jsen/Documents/GitProjects/POJ/DeliverWater/Server/DeliverUser/runtime/lock'
+2017-12-21 18:12:47.550 [main] ERROR server - [object Object]
+2017-12-21 18:12:47.551 [main] ERROR server - Error: ENOENT: no such file or directory, open '/Users/jsen/Documents/GitProjects/POJ/DeliverWater/Server/DeliverUser/runtime/lock'
+2017-12-21 18:12:47.552 [main] INFO server - 服务器端口：7084
+2017-12-21 18:12:47.554 [main] INFO server - 服务器端口：7084
+2017-12-21 18:12:47.555 [main] ERROR server - [object Object]
+2017-12-21 18:12:47.556 [main] ERROR server - Error: ENOENT: no such file or directory, open '/Users/jsen/Documents/GitProjects/POJ/DeliverWater/Server/DeliverUser/runtime/lock'
+2017-12-21 18:12:47.558 [main] ERROR server - [object Object]
+2017-12-21 18:12:47.559 [main] ERROR server - Error: ENOENT: no such file or directory, open '/Users/jsen/Documents/GitProjects/POJ/DeliverWater/Server/DeliverUser/runtime/lock'
+2017-12-21 18:12:47.561 [main] INFO server - 服务器端口：7084
+2017-12-21 18:12:47.562 [main] INFO server - 服务器端口：7084
+2017-12-21 18:12:47.568 [main] ERROR server - [object Object]
+2017-12-21 18:12:47.569 [main] ERROR server - Error: ENOENT: no such file or directory, open '/Users/jsen/Documents/GitProjects/POJ/DeliverWater/Server/DeliverUser/runtime/lock'
+2017-12-21 18:12:47.569 [main] ERROR server - [object Object]
+2017-12-21 18:12:47.570 [main] ERROR server - Error: ENOENT: no such file or directory, open '/Users/jsen/Documents/GitProjects/POJ/DeliverWater/Server/DeliverUser/runtime/lock'
+2017-12-21 18:12:47.571 [main] INFO server - 服务器端口：7084
+2017-12-21 18:12:47.572 [main] INFO server - 服务器端口：7084
+2017-12-21 18:12:47.581 [main] INFO MongoseIniter - MongoDB open:deliverwater
+2017-12-21 18:12:47.583 [main] ERROR server - [object Object]
+2017-12-21 18:12:47.584 [main] ERROR server - Error: ENOENT: no such file or directory, open '/Users/jsen/Documents/GitProjects/POJ/DeliverWater/Server/DeliverUser/runtime/lock'
+2017-12-21 18:12:47.586 [main] INFO server - 服务器端口：7084
+2017-12-21 18:12:47.586 [main] ERROR server - [object Object]
+2017-12-21 18:12:47.587 [main] ERROR server - Error: ENOENT: no such file or directory, open '/Users/jsen/Documents/GitProjects/POJ/DeliverWater/Server/DeliverUser/runtime/lock'
+2017-12-21 18:12:47.589 [main] INFO server - 服务器端口：7084
+2017-12-21 18:12:47.590 [main] INFO MongoseIniter - MongoDB open:deliverwater
+2017-12-21 18:12:47.592 [main] INFO MongoseIniter - MongoDB open:deliverwater
+2017-12-21 18:12:47.593 [main] INFO MongoseIniter - MongoDB open:deliverwater
+2017-12-21 18:12:47.595 [main] INFO MongoseIniter - MongoDB open:deliverwater
+2017-12-21 18:12:47.605 [main] INFO MongoseIniter - MongoDB open:deliverwater
+2017-12-21 18:12:47.606 [main] INFO MongoseIniter - MongoDB open:deliverwater
+2017-12-21 18:12:47.610 [main] INFO MongoseIniter - MongoDB open:deliverwater
+2017-12-21 18:12:48.145 [main] INFO Task - register succeed at time:Thu Dec 21 2017 18:45:48 GMT+0800 (CST)
+2017-12-21 18:12:48.149 [main] INFO Task - register succeed at time:Thu Dec 21 2017 18:45:48 GMT+0800 (CST)
+2017-12-21 18:12:48.153 [main] INFO Task - register succeed at time:Thu Dec 21 2017 18:45:48 GMT+0800 (CST)
+2017-12-21 18:12:48.161 [main] INFO Task - register succeed at time:Thu Dec 21 2017 18:45:48 GMT+0800 (CST)
+2017-12-21 18:12:48.164 [main] INFO Task - register succeed at time:Thu Dec 21 2017 18:45:48 GMT+0800 (CST)
+2017-12-21 18:12:48.164 [main] INFO Task - register succeed at time:Thu Dec 21 2017 18:45:48 GMT+0800 (CST)
+2017-12-21 18:12:48.167 [main] INFO Task - register succeed at time:Thu Dec 21 2017 18:45:48 GMT+0800 (CST)
+2017-12-21 18:12:48.168 [main] INFO Task - register succeed at time:Thu Dec 21 2017 18:45:48 GMT+0800 (CST)
+2017-12-21 18:12:08.106 [main] ERROR server - Error: ENOENT: no such file or directory, open '/Users/jsen/Documents/GitProjects/POJ/DeliverWater/Server/DeliverUser/runtime/lock'
+2017-12-21 18:12:08.109 [main] ERROR server - Error: ENOENT: no such file or directory, open '/Users/jsen/Documents/GitProjects/POJ/DeliverWater/Server/DeliverUser/runtime/lock'
+2017-12-21 18:12:08.133 [main] INFO MongoseIniter - MongoDB open:deliverwater
+2017-12-21 18:12:09.156 [main] INFO Task - register succeed at time:Thu Dec 21 2017 18:46:09 GMT+0800 (CST)
+2017-12-21 18:12:09.434 [main] ERROR server - [object Object]
+2017-12-21 18:12:09.435 [main] ERROR server - Error: ENOENT: no such file or directory, open '/Users/jsen/Documents/GitProjects/POJ/DeliverWater/Server/DeliverUser/runtime/lock'
+2017-12-21 18:12:09.439 [main] INFO server - 服务器端口：7084
+2017-12-21 18:12:09.460 [main] ERROR server - [object Object]
+2017-12-21 18:12:09.461 [main] ERROR server - Error: ENOENT: no such file or directory, open '/Users/jsen/Documents/GitProjects/POJ/DeliverWater/Server/DeliverUser/runtime/lock'
+2017-12-21 18:12:09.463 [main] INFO server - 服务器端口：7084
+2017-12-21 18:12:09.463 [main] ERROR server - [object Object]
+2017-12-21 18:12:09.465 [main] ERROR server - Error: ENOENT: no such file or directory, open '/Users/jsen/Documents/GitProjects/POJ/DeliverWater/Server/DeliverUser/runtime/lock'
+2017-12-21 18:12:09.467 [main] INFO server - 服务器端口：7084
+2017-12-21 18:12:09.472 [main] INFO MongoseIniter - MongoDB open:deliverwater
+2017-12-21 18:12:09.476 [main] ERROR server - [object Object]
+2017-12-21 18:12:09.476 [main] ERROR server - Error: ENOENT: no such file or directory, open '/Users/jsen/Documents/GitProjects/POJ/DeliverWater/Server/DeliverUser/runtime/lock'
+2017-12-21 18:12:09.479 [main] INFO server - 服务器端口：7084
+2017-12-21 18:12:09.496 [main] INFO MongoseIniter - MongoDB open:deliverwater
+2017-12-21 18:12:09.498 [main] INFO MongoseIniter - MongoDB open:deliverwater
+2017-12-21 18:12:09.498 [main] INFO MongoseIniter - MongoDB open:deliverwater
+2017-12-21 18:12:09.511 [main] ERROR server - [object Object]
+2017-12-21 18:12:09.513 [main] ERROR server - Error: ENOENT: no such file or directory, open '/Users/jsen/Documents/GitProjects/POJ/DeliverWater/Server/DeliverUser/runtime/lock'
+2017-12-21 18:12:09.517 [main] INFO server - 服务器端口：7084
+2017-12-21 18:12:09.526 [main] ERROR server - [object Object]
+2017-12-21 18:12:09.528 [main] ERROR server - Error: ENOENT: no such file or directory, open '/Users/jsen/Documents/GitProjects/POJ/DeliverWater/Server/DeliverUser/runtime/lock'
+2017-12-21 18:12:09.531 [main] INFO server - 服务器端口：7084
+2017-12-21 18:12:09.535 [main] INFO MongoseIniter - MongoDB open:deliverwater
+2017-12-21 18:12:09.544 [main] ERROR server - [object Object]
+2017-12-21 18:12:09.545 [main] ERROR server - Error: ENOENT: no such file or directory, open '/Users/jsen/Documents/GitProjects/POJ/DeliverWater/Server/DeliverUser/runtime/lock'
+2017-12-21 18:12:09.548 [main] INFO server - 服务器端口：7084
+2017-12-21 18:12:09.551 [main] INFO MongoseIniter - MongoDB open:deliverwater
+2017-12-21 18:12:09.558 [main] ERROR server - [object Object]
+2017-12-21 18:12:09.559 [main] ERROR server - Error: ENOENT: no such file or directory, open '/Users/jsen/Documents/GitProjects/POJ/DeliverWater/Server/DeliverUser/runtime/lock'
+2017-12-21 18:12:09.562 [main] INFO server - 服务器端口：7084
+2017-12-21 18:12:09.566 [main] INFO MongoseIniter - MongoDB open:deliverwater
+2017-12-21 18:12:09.575 [main] INFO MongoseIniter - MongoDB open:deliverwater
+2017-12-21 18:12:10.160 [main] INFO Task - register succeed at time:Thu Dec 21 2017 18:46:10 GMT+0800 (CST)
+2017-12-21 18:12:10.161 [main] INFO Task - register succeed at time:Thu Dec 21 2017 18:46:10 GMT+0800 (CST)
+2017-12-21 18:12:10.163 [main] INFO Task - register succeed at time:Thu Dec 21 2017 18:46:10 GMT+0800 (CST)
+2017-12-21 18:12:10.163 [main] INFO Task - register succeed at time:Thu Dec 21 2017 18:46:10 GMT+0800 (CST)
+2017-12-21 18:12:10.168 [main] INFO Task - register succeed at time:Thu Dec 21 2017 18:46:10 GMT+0800 (CST)
+2017-12-21 18:12:10.171 [main] INFO Task - register succeed at time:Thu Dec 21 2017 18:46:10 GMT+0800 (CST)
+2017-12-21 18:12:10.172 [main] INFO Task - register succeed at time:Thu Dec 21 2017 18:46:10 GMT+0800 (CST)
+2017-12-21 18:12:10.173 [main] INFO Task - register succeed at time:Thu Dec 21 2017 18:46:10 GMT+0800 (CST)
+2017-12-21 18:12:17.733 [main] INFO ControllerServer - adminLogin Api Call
+2017-12-21 18:12:22.145 [main] INFO ControllerServer - adminLogin Api Call
+2017-12-21 19:12:56.571 [main] ERROR server - Error: ENOENT: no such file or directory, open '/Users/jsen/Documents/GitProjects/POJ/DeliverWater/Server/DeliverUser/runtime/lock'
+2017-12-21 19:12:56.574 [main] ERROR server - Error: ENOENT: no such file or directory, open '/Users/jsen/Documents/GitProjects/POJ/DeliverWater/Server/DeliverUser/runtime/lock'
+2017-12-21 19:12:56.594 [main] INFO MongoseIniter - MongoDB open:deliverwater
+2017-12-21 19:12:57.156 [main] INFO Task - register succeed at time:Thu Dec 21 2017 19:16:57 GMT+0800 (CST)
+2017-12-21 19:12:57.827 [main] ERROR server - [object Object]
+2017-12-21 19:12:57.828 [main] ERROR server - Error: ENOENT: no such file or directory, open '/Users/jsen/Documents/GitProjects/POJ/DeliverWater/Server/DeliverUser/runtime/lock'
+2017-12-21 19:12:57.831 [main] INFO server - 服务器端口：7084
+2017-12-21 19:12:57.848 [main] INFO MongoseIniter - MongoDB open:deliverwater
+2017-12-21 19:12:57.848 [main] ERROR server - [object Object]
+2017-12-21 19:12:57.849 [main] ERROR server - Error: ENOENT: no such file or directory, open '/Users/jsen/Documents/GitProjects/POJ/DeliverWater/Server/DeliverUser/runtime/lock'
+2017-12-21 19:12:57.851 [main] INFO server - 服务器端口：7084
+2017-12-21 19:12:57.857 [main] ERROR server - [object Object]
+2017-12-21 19:12:57.858 [main] ERROR server - Error: ENOENT: no such file or directory, open '/Users/jsen/Documents/GitProjects/POJ/DeliverWater/Server/DeliverUser/runtime/lock'
+2017-12-21 19:12:57.862 [main] INFO server - 服务器端口：7084
+2017-12-21 19:12:57.863 [main] ERROR server - [object Object]
+2017-12-21 19:12:57.864 [main] ERROR server - Error: ENOENT: no such file or directory, open '/Users/jsen/Documents/GitProjects/POJ/DeliverWater/Server/DeliverUser/runtime/lock'
+2017-12-21 19:12:57.866 [main] INFO server - 服务器端口：7084
+2017-12-21 19:12:57.869 [main] ERROR server - [object Object]
+2017-12-21 19:12:57.870 [main] ERROR server - Error: ENOENT: no such file or directory, open '/Users/jsen/Documents/GitProjects/POJ/DeliverWater/Server/DeliverUser/runtime/lock'
+2017-12-21 19:12:57.869 [main] ERROR server - [object Object]
+2017-12-21 19:12:57.870 [main] ERROR server - Error: ENOENT: no such file or directory, open '/Users/jsen/Documents/GitProjects/POJ/DeliverWater/Server/DeliverUser/runtime/lock'
+2017-12-21 19:12:57.872 [main] INFO server - 服务器端口：7084
+2017-12-21 19:12:57.872 [main] INFO server - 服务器端口：7084
+2017-12-21 19:12:57.873 [main] ERROR server - [object Object]
+2017-12-21 19:12:57.874 [main] ERROR server - Error: ENOENT: no such file or directory, open '/Users/jsen/Documents/GitProjects/POJ/DeliverWater/Server/DeliverUser/runtime/lock'
+2017-12-21 19:12:57.875 [main] ERROR server - [object Object]
+2017-12-21 19:12:57.876 [main] ERROR server - Error: ENOENT: no such file or directory, open '/Users/jsen/Documents/GitProjects/POJ/DeliverWater/Server/DeliverUser/runtime/lock'
+2017-12-21 19:12:57.876 [main] INFO server - 服务器端口：7084
+2017-12-21 19:12:57.879 [main] INFO server - 服务器端口：7084
+2017-12-21 19:12:57.885 [main] INFO MongoseIniter - MongoDB open:deliverwater
+2017-12-21 19:12:57.887 [main] INFO MongoseIniter - MongoDB open:deliverwater
+2017-12-21 19:12:57.893 [main] INFO MongoseIniter - MongoDB open:deliverwater
+2017-12-21 19:12:57.895 [main] INFO MongoseIniter - MongoDB open:deliverwater
+2017-12-21 19:12:57.896 [main] INFO MongoseIniter - MongoDB open:deliverwater
+2017-12-21 19:12:57.900 [main] INFO MongoseIniter - MongoDB open:deliverwater
+2017-12-21 19:12:57.902 [main] INFO MongoseIniter - MongoDB open:deliverwater
+2017-12-21 19:12:58.150 [main] INFO Task - register succeed at time:Thu Dec 21 2017 19:16:58 GMT+0800 (CST)
+2017-12-21 19:12:58.153 [main] INFO Task - register succeed at time:Thu Dec 21 2017 19:16:58 GMT+0800 (CST)
+2017-12-21 19:12:58.156 [main] INFO Task - register succeed at time:Thu Dec 21 2017 19:16:58 GMT+0800 (CST)
+2017-12-21 19:12:58.159 [main] INFO Task - register succeed at time:Thu Dec 21 2017 19:16:58 GMT+0800 (CST)
+2017-12-21 19:12:58.162 [main] INFO Task - register succeed at time:Thu Dec 21 2017 19:16:58 GMT+0800 (CST)
+2017-12-21 19:12:58.164 [main] INFO Task - register succeed at time:Thu Dec 21 2017 19:16:58 GMT+0800 (CST)
+2017-12-21 19:12:58.167 [main] INFO Task - register succeed at time:Thu Dec 21 2017 19:16:58 GMT+0800 (CST)
+2017-12-21 19:12:58.168 [main] INFO Task - register succeed at time:Thu Dec 21 2017 19:16:58 GMT+0800 (CST)
+2017-12-21 19:12:59.871 [main] INFO ControllerServer - adminLogin Api Call
+2017-12-21 19:12:58.133 [main] INFO Task - register succeed at time:Thu Dec 21 2017 19:17:58 GMT+0800 (CST)
+2017-12-21 19:12:59.134 [main] INFO Task - register succeed at time:Thu Dec 21 2017 19:17:59 GMT+0800 (CST)
+2017-12-21 19:12:59.140 [main] INFO Task - register succeed at time:Thu Dec 21 2017 19:17:59 GMT+0800 (CST)
+2017-12-21 19:12:59.145 [main] INFO Task - register succeed at time:Thu Dec 21 2017 19:17:59 GMT+0800 (CST)
+2017-12-21 19:12:59.149 [main] INFO Task - register succeed at time:Thu Dec 21 2017 19:17:59 GMT+0800 (CST)
+2017-12-21 19:12:59.151 [main] INFO Task - register succeed at time:Thu Dec 21 2017 19:17:59 GMT+0800 (CST)
+2017-12-21 19:12:59.152 [main] INFO Task - register succeed at time:Thu Dec 21 2017 19:17:59 GMT+0800 (CST)
+2017-12-21 19:12:59.156 [main] INFO Task - register succeed at time:Thu Dec 21 2017 19:17:59 GMT+0800 (CST)
+2017-12-21 19:12:00.177 [main] INFO Task - register succeed at time:Thu Dec 21 2017 19:18:00 GMT+0800 (CST)
+2017-12-21 19:12:00.626 [main] INFO ControllerServer - createUser Api Call
+2017-12-21 19:12:35.699 [main] INFO ControllerClient - login Api Call
+2017-12-21 19:12:37.925 [main] INFO ControllerClient - login Api Call
+2017-12-21 19:12:50.769 [main] INFO ControllerServer - resetPassword Api Call
+2017-12-21 19:12:58.136 [main] INFO Task - register succeed at time:Thu Dec 21 2017 19:18:58 GMT+0800 (CST)
+2017-12-21 19:12:58.178 [main] INFO ControllerClient - login Api Call
+2017-12-21 19:12:59.136 [main] INFO Task - register succeed at time:Thu Dec 21 2017 19:18:59 GMT+0800 (CST)
+2017-12-21 19:12:00.133 [main] INFO Task - register succeed at time:Thu Dec 21 2017 19:19:00 GMT+0800 (CST)
+2017-12-21 19:12:00.138 [main] INFO Task - register succeed at time:Thu Dec 21 2017 19:19:00 GMT+0800 (CST)
+2017-12-21 19:12:00.140 [main] INFO Task - register succeed at time:Thu Dec 21 2017 19:19:00 GMT+0800 (CST)
+2017-12-21 19:12:00.140 [main] INFO Task - register succeed at time:Thu Dec 21 2017 19:19:00 GMT+0800 (CST)
+2017-12-21 19:12:00.150 [main] INFO Task - register succeed at time:Thu Dec 21 2017 19:19:00 GMT+0800 (CST)
+2017-12-21 19:12:00.152 [main] INFO Task - register succeed at time:Thu Dec 21 2017 19:19:00 GMT+0800 (CST)
+2017-12-21 19:12:00.152 [main] INFO Task - register succeed at time:Thu Dec 21 2017 19:19:00 GMT+0800 (CST)
+2017-12-21 19:12:02.062 [main] INFO ControllerClient - login Api Call
+2017-12-21 19:12:05.244 [main] INFO ControllerClient - login Api Call
+2017-12-21 19:12:58.150 [main] INFO Task - register succeed at time:Thu Dec 21 2017 19:19:58 GMT+0800 (CST)
+2017-12-21 19:12:59.141 [main] INFO Task - register succeed at time:Thu Dec 21 2017 19:19:59 GMT+0800 (CST)
+2017-12-21 19:12:00.135 [main] INFO Task - register succeed at time:Thu Dec 21 2017 19:20:00 GMT+0800 (CST)
+2017-12-21 19:12:00.176 [main] INFO Task - register succeed at time:Thu Dec 21 2017 19:20:00 GMT+0800 (CST)
+2017-12-21 19:12:00.176 [main] INFO Task - register succeed at time:Thu Dec 21 2017 19:20:00 GMT+0800 (CST)
+2017-12-21 19:12:00.181 [main] INFO Task - register succeed at time:Thu Dec 21 2017 19:20:00 GMT+0800 (CST)
+2017-12-21 19:12:00.186 [main] INFO Task - register succeed at time:Thu Dec 21 2017 19:20:00 GMT+0800 (CST)
+2017-12-21 19:12:00.186 [main] INFO Task - register succeed at time:Thu Dec 21 2017 19:20:00 GMT+0800 (CST)
+2017-12-21 19:12:00.186 [main] INFO Task - register succeed at time:Thu Dec 21 2017 19:20:00 GMT+0800 (CST)
+2017-12-21 19:12:11.690 [main] INFO ControllerServer - resetPassword Api Call
+2017-12-21 19:12:29.405 [main] INFO ControllerServer - resetPassword Api Call
+2017-12-21 19:12:59.154 [main] INFO Task - register succeed at time:Thu Dec 21 2017 19:20:59 GMT+0800 (CST)
+2017-12-21 19:12:00.140 [main] INFO Task - register succeed at time:Thu Dec 21 2017 19:21:00 GMT+0800 (CST)
+2017-12-21 19:12:01.139 [main] INFO Task - register succeed at time:Thu Dec 21 2017 19:21:01 GMT+0800 (CST)
+2017-12-21 19:12:01.139 [main] INFO Task - register succeed at time:Thu Dec 21 2017 19:21:01 GMT+0800 (CST)
+2017-12-21 19:12:01.139 [main] INFO Task - register succeed at time:Thu Dec 21 2017 19:21:01 GMT+0800 (CST)
+2017-12-21 19:12:01.142 [main] INFO Task - register succeed at time:Thu Dec 21 2017 19:21:01 GMT+0800 (CST)
+2017-12-21 19:12:01.147 [main] INFO Task - register succeed at time:Thu Dec 21 2017 19:21:01 GMT+0800 (CST)
+2017-12-21 19:12:01.149 [main] INFO Task - register succeed at time:Thu Dec 21 2017 19:21:01 GMT+0800 (CST)
+2017-12-21 19:12:01.166 [main] INFO Task - register succeed at time:Thu Dec 21 2017 19:21:01 GMT+0800 (CST)
+2017-12-21 19:12:51.870 [main] INFO ControllerServer - resetPassword Api Call
+2017-12-21 19:12:00.172 [main] INFO Task - register succeed at time:Thu Dec 21 2017 19:22:00 GMT+0800 (CST)
+2017-12-21 19:12:01.140 [main] INFO Task - register succeed at time:Thu Dec 21 2017 19:22:01 GMT+0800 (CST)
+2017-12-21 19:12:01.152 [main] INFO Task - register succeed at time:Thu Dec 21 2017 19:22:01 GMT+0800 (CST)
+2017-12-21 19:12:01.158 [main] INFO Task - register succeed at time:Thu Dec 21 2017 19:22:01 GMT+0800 (CST)
+2017-12-21 19:12:01.210 [main] INFO Task - register succeed at time:Thu Dec 21 2017 19:22:01 GMT+0800 (CST)
+2017-12-21 19:12:01.216 [main] INFO Task - register succeed at time:Thu Dec 21 2017 19:22:01 GMT+0800 (CST)
+2017-12-21 19:12:01.216 [main] INFO Task - register succeed at time:Thu Dec 21 2017 19:22:01 GMT+0800 (CST)
+2017-12-21 19:12:01.220 [main] INFO Task - register succeed at time:Thu Dec 21 2017 19:22:01 GMT+0800 (CST)
+2017-12-21 19:12:01.241 [main] INFO ControllerServer - resetPassword Api Call
+2017-12-21 19:12:02.148 [main] INFO Task - register succeed at time:Thu Dec 21 2017 19:22:02 GMT+0800 (CST)
+2017-12-21 19:12:38.882 [main] INFO ControllerServer - resetPassword Api Call
+2017-12-21 19:12:00.078 [main] INFO ControllerServer - resetPassword Api Call
+2017-12-21 19:12:00.133 [main] INFO Task - register succeed at time:Thu Dec 21 2017 19:23:00 GMT+0800 (CST)
+2017-12-21 19:12:02.137 [main] INFO Task - register succeed at time:Thu Dec 21 2017 19:23:02 GMT+0800 (CST)
+2017-12-21 19:12:02.138 [main] INFO Task - register succeed at time:Thu Dec 21 2017 19:23:02 GMT+0800 (CST)
+2017-12-21 19:12:02.139 [main] INFO Task - register succeed at time:Thu Dec 21 2017 19:23:02 GMT+0800 (CST)
+2017-12-21 19:12:02.141 [main] INFO Task - register succeed at time:Thu Dec 21 2017 19:23:02 GMT+0800 (CST)
+2017-12-21 19:12:02.145 [main] INFO Task - register succeed at time:Thu Dec 21 2017 19:23:02 GMT+0800 (CST)
+2017-12-21 19:12:02.150 [main] INFO Task - register succeed at time:Thu Dec 21 2017 19:23:02 GMT+0800 (CST)
+2017-12-21 19:12:02.152 [main] INFO Task - register succeed at time:Thu Dec 21 2017 19:23:02 GMT+0800 (CST)
+2017-12-21 19:12:02.154 [main] INFO Task - register succeed at time:Thu Dec 21 2017 19:23:02 GMT+0800 (CST)
+2017-12-21 19:12:34.123 [main] INFO ControllerServer - resetPassword Api Call
+2017-12-21 19:12:42.589 [main] INFO ControllerServer - resetPassword Api Call
+2017-12-21 19:12:51.140 [main] INFO ControllerServer - createUser Api Call
+2017-12-21 19:12:01.135 [main] INFO Task - register succeed at time:Thu Dec 21 2017 19:24:01 GMT+0800 (CST)
+2017-12-21 19:12:01.546 [main] INFO ControllerServer - createUser Api Call
+2017-12-21 19:12:02.152 [main] INFO Task - register succeed at time:Thu Dec 21 2017 19:24:02 GMT+0800 (CST)
+2017-12-21 19:12:02.154 [main] INFO Task - register succeed at time:Thu Dec 21 2017 19:24:02 GMT+0800 (CST)
+2017-12-21 19:12:03.164 [main] INFO Task - register succeed at time:Thu Dec 21 2017 19:24:03 GMT+0800 (CST)
+2017-12-21 19:12:03.166 [main] INFO Task - register succeed at time:Thu Dec 21 2017 19:24:03 GMT+0800 (CST)
+2017-12-21 19:12:03.170 [main] INFO Task - register succeed at time:Thu Dec 21 2017 19:24:03 GMT+0800 (CST)
+2017-12-21 19:12:03.170 [main] INFO Task - register succeed at time:Thu Dec 21 2017 19:24:03 GMT+0800 (CST)
+2017-12-21 19:12:03.171 [main] INFO Task - register succeed at time:Thu Dec 21 2017 19:24:03 GMT+0800 (CST)
+2017-12-21 19:12:03.171 [main] INFO Task - register succeed at time:Thu Dec 21 2017 19:24:03 GMT+0800 (CST)
