@@ -16,7 +16,7 @@ exports.boot = function(){
     if(params.host && params.port) {
         url = 'mongodb://'+params.host+':'+params.port
     }
-    var options = { server: { socketOptions: { keepAlive: 1 } }, useMongoClient:true };
+    var options = { useMongoClient:true };
     mongoose.connect(url + '/' + (params.db || 'template'), options);
     let conn = mongoose.connection;
     conn.on('error', (err) => {
