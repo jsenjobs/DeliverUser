@@ -13,7 +13,7 @@ exports.login = function(_id, password) {
 			return Enc.compare(password, obj.password).then(ok => {
 				if(ok) {
 					UserClient.findOneAndUpdate({_id:_id}, {last_login:Date.now()})
-					return {code:0}
+					return {code:0, openid: obj._id, name:obj.name, address:obj.address}
 				}
 				return {code:1, msg:'登入失败'}
 			}).catch(e => {

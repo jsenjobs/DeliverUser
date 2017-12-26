@@ -1,7 +1,9 @@
 let client = require('./client')
+let queryorder = require('./queryorder')
 let server = require('./server')
 let models = {
 	'client' : client,
+	'queryorder' : queryorder,
 	'server' : server,
 }
 

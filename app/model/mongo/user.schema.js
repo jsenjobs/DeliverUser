@@ -9,6 +9,8 @@ let mongoose = require('mongoose'),
 var UserClientSchema = new Schema({
   _id : { type: String },                    //id
   password : {type : String},       //密码
+  name : {type : String},       //用户名字
+  address : {type : String},       //送货地址
   register_date: {type:Date},
   last_login: {type:Date},
 });

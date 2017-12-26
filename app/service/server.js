@@ -10,14 +10,14 @@ let UserClient = require('../model').userClient;
 let Enc = require('../utils/Enc.js')
 let JWTUtils = require('../utils/JWTUtils.js')
 
-exports.createUser = function(_id, password) {
-	console.log(password)
-
+exports.createUser = function(_id, password, name, address) {
 	return Enc.Enc(password).then(hash => {
 		let date = Date.now()
 		return new UserClient({
 			_id: _id,
 			password: hash,
+			name: name,
+			address: address,
 			register_date: date,
 			last_login: date
 		}).save().then(ok => {
@@ -49,6 +49,19 @@ exports.resetPassword = function(_id, password) {
 		return {code:1, msg:'加密密码失败'}
 	})
 }
+
+exports.resetAddress = function(_id, address) {
+	return UserClient.findOneAndUpdate({_id:_id}, {address:address}).then(eff => {
+		if(eff) {
+			return {code:0}
+		} else {
+			return {code:0, msg:'没有更改'}
+		}
+	}).catch(e => {
+		return {code:1, msg:'更新用户失败'}
+	})
+}
+
 
 exports.login = function(_id, password) {
 	return UserServer.findOne({_id: _id}).then(obj => {

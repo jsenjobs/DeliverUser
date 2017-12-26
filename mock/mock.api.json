@@ -49,6 +49,123 @@
     "method": "GET",
     "des": "用户登入"
   },
+  "finishSend": {
+    "params": [
+      {
+        "name": "order",
+        "type": "string",
+        "des": "订单id"
+      }
+    ],
+    "_links": "/order/sended/:order",
+    "method": "GET",
+    "des": "标记完成订单，客户端调用"
+  },
+  "listToBeFinishedOrder": {
+    "params": [
+      {
+        "name": "openid",
+        "type": "string",
+        "des": "用户id"
+      }
+    ],
+    "_links": "/order/list/tobe/:openid",
+    "method": "GET",
+    "des": "列出用户未确认订单"
+  },
+  "listAllUserOrders": {
+    "params": [
+      {
+        "name": "openid",
+        "type": "string",
+        "des": "用户id"
+      }
+    ],
+    "_links": "/order/listall/:openid",
+    "method": "GET",
+    "des": "列出所有用户订单"
+  },
+  "queryOrderByDay": {
+    "params": [
+      {
+        "name": "date",
+        "type": "string",
+        "des": "查询的时间"
+      }
+    ],
+    "_links": "/order/query/day/:date",
+    "method": "GET",
+    "headers": [
+      {
+        "name": "token",
+        "type": "string",
+        "des": "用户Token"
+      }
+    ],
+    "des": "根据时间查询订单"
+  },
+  "queryOrderByStat": {
+    "params": [
+      {
+        "name": "stat",
+        "type": "number",
+        "des": "查询的状态"
+      }
+    ],
+    "_links": "/order/query/stat",
+    "method": "GET",
+    "headers": [
+      {
+        "name": "token",
+        "type": "string",
+        "des": "用户Token"
+      }
+    ],
+    "des": "根据状态查询订单"
+  },
+  "queryOrderById": {
+    "params": [
+      {
+        "name": "id",
+        "type": "string",
+        "des": "查询的用户id （openid）"
+      }
+    ],
+    "_links": "/order/query/id/:id",
+    "method": "GET",
+    "headers": [
+      {
+        "name": "token",
+        "type": "string",
+        "des": "用户Token"
+      }
+    ],
+    "des": "根据时间查询订单"
+  },
+  "getOrders": {
+    "params": [
+      {
+        "name": "capacity",
+        "type": "number",
+        "des": "每页大小"
+      },
+      {
+        "name": "page",
+        "type": "number",
+        "des": "第几页 1 开始"
+      }
+    ],
+    "_links": "/order/get/:capacity/:page",
+    "method": "GET",
+    "headers": [
+      {
+        "name": "token",
+        "type": "string",
+        "des": "用户Token"
+      }
+    ],
+    "des": "分页获取订单，根据时间"
+  },
   "adminUserLogin": {
     "params": [
       {
@@ -77,9 +194,19 @@
         "name": "password",
         "type": "string",
         "des": "用户密码"
+      },
+      {
+        "name": "name",
+        "type": "string",
+        "des": "用户名字"
+      },
+      {
+        "name": "address",
+        "type": "string",
+        "des": "用户送货地址"
       }
     ],
-    "_links": "/xxv1/1vxx/admin/user/create/:account/:password",
+    "_links": "/xxv1/1vxx/admin/user/create/:account/:password/:name/:address",
     "method": "GET",
     "des": "创建用户",
     "headers": [
@@ -103,7 +230,31 @@
         "des": "用户密码"
       }
     ],
-    "_links": "/xxv1/1vxx/admin/user/reset/:account/:password",
+    "_links": "/xxv1/1vxx/admin/user/reset/password/:account/:password",
+    "method": "GET",
+    "des": "重置用户密码",
+    "headers": [
+      {
+        "name": "token",
+        "type": "string",
+        "des": "用户密码"
+      }
+    ]
+  },
+  "adminResetAddress": {
+    "params": [
+      {
+        "name": "account",
+        "type": "string",
+        "des": "用户id"
+      },
+      {
+        "name": "address",
+        "type": "string",
+        "des": "用户送货地址"
+      }
+    ],
+    "_links": "/xxv1/1vxx/admin/user/reset/address/:account/:address",
     "method": "GET",
     "des": "重置用户密码",
     "headers": [

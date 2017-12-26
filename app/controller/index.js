@@ -1,5 +1,6 @@
 let appC = require('./app.js')
 let clientcontrollerC = require('./clientcontroller.js')
+let orderCRUDControllerC = require('./orderCRUDController.js')
 let servercontrollerC = require('./servercontroller.js')
 // @require
 
@@ -48,9 +49,17 @@ exports.boot = function(app) {
   app.get('/app/listinfo',appC.listinfo)
   app.get('/app/getLog',appC.getLog)
   app.get('/login/:account/:password',clientcontrollerC.login)
+  app.get('/order/sended/:order',orderCRUDControllerC.finishSend)
+  app.get('/order/list/tobe/:openid',orderCRUDControllerC.listToBeFinishedOrder)
+  app.get('/order/listall/:openid',orderCRUDControllerC.listAllUserOrders)
+  app.get('/order/query/day/:date',orderCRUDControllerC.queryByDay)
+  app.get('/order/query/stat',orderCRUDControllerC.queryByStat)
+  app.get('/order/query/id/:id',orderCRUDControllerC.queryByOpenid)
+  app.get('/order/get/:capacity/:page',orderCRUDControllerC.getOrders)
   app.get('/xxv1/1vxx/admin/login/:account/:password',servercontrollerC.adminLogin)
-  app.get('/xxv1/1vxx/admin/user/create/:account/:password',servercontrollerC.createUser)
-  app.get('/xxv1/1vxx/admin/user/reset/:account/:password',servercontrollerC.resetPassword)
+  app.get('/xxv1/1vxx/admin/user/create/:account/:password/:name/:address',servercontrollerC.createUser)
+  app.get('/xxv1/1vxx/admin/user/reset/password/:account/:password',servercontrollerC.resetPassword)
+  app.get('/xxv1/1vxx/admin/user/reset/address/:account/:address',servercontrollerC.resetAddress)
   // @end
 
 }
