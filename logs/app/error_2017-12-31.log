@@ -1,0 +1,27 @@
+2017-12-31 15:12:07.246 [main] ERROR MongoseIniter - MongoError: failed to connect to server [dbmongo:27017] on first connect [MongoError: getaddrinfo ENOTFOUND dbmongo dbmongo:27017]
+2017-12-31 15:12:07.250 [main] ERROR server - Error: ENOENT: no such file or directory, open '/Users/jsen/Documents/GitProjects/POJ/DeliverWater/Server/DeliverUser/runtime/lock'
+2017-12-31 15:12:07.251 [main] ERROR server - Error: ENOENT: no such file or directory, open '/Users/jsen/Documents/GitProjects/POJ/DeliverWater/Server/DeliverUser/runtime/lock'
+2017-12-31 15:12:08.116 [main] ERROR MongoseIniter - [object Object]
+2017-12-31 15:12:08.118 [main] ERROR server - [object Object]
+2017-12-31 15:12:08.118 [main] ERROR server - Error: ENOENT: no such file or directory, open '/Users/jsen/Documents/GitProjects/POJ/DeliverWater/Server/DeliverUser/runtime/lock'
+2017-12-31 15:12:08.154 [main] ERROR MongoseIniter - [object Object]
+2017-12-31 15:12:08.155 [main] ERROR MongoseIniter - [object Object]
+2017-12-31 15:12:08.157 [main] ERROR server - [object Object]
+2017-12-31 15:12:08.157 [main] ERROR server - Error: ENOENT: no such file or directory, open '/Users/jsen/Documents/GitProjects/POJ/DeliverWater/Server/DeliverUser/runtime/lock'
+2017-12-31 15:12:08.156 [main] ERROR MongoseIniter - [object Object]
+2017-12-31 15:12:08.158 [main] ERROR server - [object Object]
+2017-12-31 15:12:08.159 [main] ERROR server - Error: ENOENT: no such file or directory, open '/Users/jsen/Documents/GitProjects/POJ/DeliverWater/Server/DeliverUser/runtime/lock'
+2017-12-31 15:12:08.159 [main] ERROR server - [object Object]
+2017-12-31 15:12:08.159 [main] ERROR server - Error: ENOENT: no such file or directory, open '/Users/jsen/Documents/GitProjects/POJ/DeliverWater/Server/DeliverUser/runtime/lock'
+2017-12-31 15:12:08.163 [main] ERROR MongoseIniter - [object Object]
+2017-12-31 15:12:08.165 [main] ERROR server - [object Object]
+2017-12-31 15:12:08.165 [main] ERROR server - Error: ENOENT: no such file or directory, open '/Users/jsen/Documents/GitProjects/POJ/DeliverWater/Server/DeliverUser/runtime/lock'
+2017-12-31 15:12:08.172 [main] ERROR MongoseIniter - [object Object]
+2017-12-31 15:12:08.174 [main] ERROR server - [object Object]
+2017-12-31 15:12:08.174 [main] ERROR server - Error: ENOENT: no such file or directory, open '/Users/jsen/Documents/GitProjects/POJ/DeliverWater/Server/DeliverUser/runtime/lock'
+2017-12-31 15:12:08.186 [main] ERROR MongoseIniter - [object Object]
+2017-12-31 15:12:08.188 [main] ERROR server - [object Object]
+2017-12-31 15:12:08.188 [main] ERROR server - Error: ENOENT: no such file or directory, open '/Users/jsen/Documents/GitProjects/POJ/DeliverWater/Server/DeliverUser/runtime/lock'
+2017-12-31 15:12:08.193 [main] ERROR MongoseIniter - [object Object]
+2017-12-31 15:12:08.196 [main] ERROR server - [object Object]
+2017-12-31 15:12:08.196 [main] ERROR server - Error: ENOENT: no such file or directory, open '/Users/jsen/Documents/GitProjects/POJ/DeliverWater/Server/DeliverUser/runtime/lock'
